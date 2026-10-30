@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "id": "the-philosophy-of-hegel",
+      "title": "The Philosophy of Hegel",
+      "subtitle": "A Systematic Exposition",
+      "author": "W. T. Stace",
+      "initial": "H",
+      "editions": [
+        {
+          "id": "en",
+          "language": "en",
+          "label": "English",
+          "role": "英文原著",
+          "directory": "content/books/the-philosophy-of-hegel/en",
+          "paragraphRange": [
+            1,
+            760
+          ],
+          "footnotes": 205,
+          "website": {
+            "includePreface": true,
+            "excludeTitles": [
+              "A Systematic Exposition",
+              "Contents",
+              "List of Abbreviations",
+              "Index",
+              "Publisher Advertisements"
+            ]
+          },
+          "sourceSha256": "c33906a0137d48f2687832d5590939eba69ec9468e41f98735db1625d2c6b26a",
+          "appendix": "content/appendices/the-philosophy-of-hegel.md"
+        }
+      ]
+    }
+  ]
+}

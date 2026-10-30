@@ -1,0 +1,14 @@
+[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Second Division. The Doctrine of Essence](../README.md) / [Chapter II. Appearance](README.md)
+
+[上一篇：Chapter II. Appearance](README.md) · [下一篇：Section II. Content and Form](02-section-ii-content-and-form.md)
+
+<!-- original-content:start -->
+##### Section I. The World of Appearance
+
+<a id="p-274"></a>
+**274.** What was formerly a thing has now become an appearance or phenomenon, that is, a thing whose independent existence is contradicted and set aside by its thorough-going dependence. The thing was composed of matter and form. The matter, as the reflection-into-self, was the inner being, or essence of the thing. The form was the reflection-into-another, the outer being. It is the side of reflection-into-another, dependence on another, which now constitutes the phenomenality of the thing. Hence it is the form which now becomes appearance, the matter being regarded as essence. But we have seen that the form embraces in itself the matter, and that the matter is itself part of the form (271). Hence the essence or ground of the phenomenon, *i.e.* the matter, is equally to be regarded as form, or as part of the form. But form is phenomenon. Therefore the phenomenon has its ground in what is phenomenal, *i.e.* in another phenomenon. This again has its ground in another, and so on. Thus we get a multiplicity of phenomena, all linked and connected together, and dependent upon each other. The totality of these phenomena is the **world of appearance**.
+
+<a id="p-275"></a>
+**275.** In dealing with the category of matter and form we pointed out that it is not to be supposed that what is there deduced is physical matter. A similar word of warning is necessary here. Hegel here introduces the word “world.” But it must not be imagined that he has deduced the external universe. Such a deduction finds its proper place in the philosophy of nature. The Logic deals only with pure thoughts. What is here deduced is not the world itself but the *phenomenality* of the world. The two elements of the present category are (1) phenomenality, and (2) the systematic interconnection (of phenomena). The second is the idea of a relation, or system of relations. This is not a sensuous fact, though, like all pure categories, it may be *applied* to sensuous facts. Phenomenality, again, is a pure thought and not a thing. Just as, earlier in the Logic, when we deduced quantity, we were not deducing the sensuous things, stones, butter, space, men, to which quantity applies, but only the pure idea, so here we are not deducing the world of sense itself, or any other world, but only the pure category which the mind applies when it regards the universe as a world of appearance.
+
+<!-- original-content:end -->

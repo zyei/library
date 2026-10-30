@@ -1,0 +1,24 @@
+[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md) / [Section II. Determinate Being](README.md)
+
+[上一篇：Section II. Determinate Being](README.md) · [下一篇：Sub-Section II. Limit](02-sub-section-ii-limit/README.md)
+
+<!-- original-content:start -->
+###### Sub-Section I. Quality.
+
+<a id="p-186"></a>
+**186.** We have reached the idea of determinateness as such. And the determinateness which has been thus deduced is **quality**. This is not at once obvious. It is obvious that quality is a kind of determinateness; but it is not the only *kind*. The *quantity* of a thing is also a determination of it. How, then, can Hegel, having merely deduced determinateness in general, claim to have deduced the particular kind of determination which we call quality? The answer to this question is as follows. Determinate being is a being which definitely is, *i.e.* does not at once disappear into nothing (185). What prevents it from disappearing into nothing is its determinateness. If it had no determination it would be pure being, and pure being *does* disappear into nothing. Hence the determinateness which we have before us is a kind of determinateness such that the very being of the being depends upon it. Destroy the determinateness and the being itself is destroyed (disappears into nothing). In fact the determinateness is the being. For it is only by virtue of its determination that the being is. The determinateness is part and parcel of the being. They are identical, cannot be separated or regarded as external to each other.
+
+Now this kind of determination, which is identical with the being of a thing, and cannot be separated from it, is quality. The quantity of a thing, on the other hand, is a determination which is quite separable from the being of the thing, and is external to it. Suppose that the thing under consideration is oxygen. It possesses the *quality* of supporting combustion. If this quality were destroyed it would cease to *be* oxygen. The very being of the oxygen is its qualities. Alter these qualities and the oxygen as oxygen ceases to exist. Thus the quality of a thing is a determination which is identical with the being of the thing. It is quite otherwise with quantity. You may increase or diminish the quantity of the oxygen to any extent whatever without affecting its being as oxygen in the slightest degree. Quantity is thus a determination which is external and quite indifferent to the being of a thing. Now what we have deduced is, as proved above, determinateness which is identical with being, and with the disappearance of which the being itself disappears. Therefore we have deduced **quality**.
+
+<a id="p-187"></a>
+**187.** Quality, however, splits into two. It may be regarded as either positive or negative. On the one hand the quality of a thing constitutes it what it is, constitutes its being. That a thing has such and such a specific gravity, supports combustion, is colourless, odourless, etc., constitutes that thing oxygen. The quality is, from this point of view, the very being, the **reality** of the thing. On the other hand, since determination is negation, quality also possesses this negative aspect. The qualities which make a thing oxygen also make it *not* hydrogen. Quality is thus also **negation**. Reality and negation are the two sub-categories of quality.
+
+<a id="p-188"></a>
+**188.** Reality, as understood in the last paragraph, is not the same as absolute reality, *independent* being. It was in this latter sense that we used the term reality earlier in this book (12 *et seq.*). By reality in the present context, however, Hegel means simply the fact of a thing being *there*, being *positively* present. In this sense whatever has determinate being, whatever *definitely* is, is real. This is something more like the popular use of the word real.
+
+Reality is not, of course, the same as pure being. It is *determinate* being. It is only its determinations, its qualities, that make a thing real. And in the same way negation is not the same as nothing. It is not an empty nothing but a determinate nothing. It is the negation of something definite. Nothing negates everything whatever. Negation only negates some definite entity. For example the sea is the negation of the land. But the sea is not nothing.
+
+<a id="p-189"></a>
+**189.** The quality of a thing regarded in its positive aspect (reality) is the inherent character or being of the thing as it is in itself apart from all other things. So considered it is the sub-category of **being-in-itself**. The quality regarded in its negative aspect (negation) is the character of the thing as negating some other thing. It is then a being which stands in relation to (negates) other things. As such it is the sub-category of **being-for-other**.
+
+<!-- original-content:end -->

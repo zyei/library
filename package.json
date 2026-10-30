@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "sync:hegel": "node scripts/import-hegel.mjs",
+    "generate": "node scripts/generate.mjs",
+    "dev": "npm run generate && vitepress dev docs --host 127.0.0.1",
+    "build": "npm run generate && vitepress build docs && npm run check",
+    "preview": "vitepress preview docs --host 127.0.0.1 --port 4173 --strictPort",
+    "check": "node scripts/check-build.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/literata": "5.3.0",
+    "markdown-it-footnote": "4.0.0",
+    "vitepress": "1.6.4",
+    "vue": "3.5.44"
+  }
+}

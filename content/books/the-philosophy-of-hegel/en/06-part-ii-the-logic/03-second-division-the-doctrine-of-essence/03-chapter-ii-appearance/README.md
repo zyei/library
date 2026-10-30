@@ -1,0 +1,29 @@
+[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Second Division. The Doctrine of Essence](../README.md)
+
+[上一篇：Sub-Section III. Matter and Form](../02-chapter-i-essence-as-ground-of-existence/03-section-iii-the-thing/03-sub-section-iii-matter-and-form.md) · [下一篇：Section I. The World of Appearance](01-section-i-the-world-of-appearance.md)
+
+<!-- original-content:start -->
+#### Chapter II. Appearance
+
+<a id="p-271"></a>
+**271.** The transition from essence as the ground of existence to appearance occurs as follows. The *thing* has, so to speak, fallen into two halves, matter and form. But now it appears that each half is the whole and contains the other. Form includes the whole of matter, and matter includes the whole of form. For matter is the empty self-identical; it is the reflection-into-self of the thing. Form, on the other hand, is the reflection-into-another of the thing. But reflection-into-another is interchangeable with reflection-into-self (267). Therefore, form, as reflection-into-another, is at the same time reflection-into-self, *i.e.* it is matter. And matter, as reflection-in-self, is at the same time reflection-into-another, *i.e.* it is form. Thus the form is the whole thing, for it includes the matter; and the matter is the whole thing, for it includes the form.
+
+Thus the thing is a contradiction. On the one hand it is wholly matter, *i.e.* reflection-into-self, and as such is wholly independent of all else, stands in its own rights as a self-subsistent existence. On the other hand it is wholly form, *i.e.* reflection-into-another, and as such is wholly dependent on another. It is thus an existence whose very independence annuls itself and turns out to be dependence. Existence so conceived is **appearance**.
+
+<a id="p-272"></a>
+**272.** That this definition of appearance is the true one will appear if we illustrate it more concretely. We are familiar with the thought that the sense-world is an appearance. This, however, is a comparatively advanced philosophical conception. The sense-world does not come before us in the first instance as an appearance. On the contrary it purports to be wholly self-subsistent and substantial. The solid rock, it seems, is something ultimate and absolute, resting wholly in itself. This is the point of view of unreflective consciousness which takes the rock for something absolute. But with the advance of philosophical thought the mind comes to see that this independence and self-subsistence is at the same time wholly dependent on something else, *i.e.* upon the absolute reality, and that it is simply the appearance of that.
+
+It is important to realize that the thing considered as appearance is a *contradiction*. It is something which, to use Hegel’s phrase, “sets itself aside.” It is not mere dependence on another. To say that the thing has no being of its own but wholly depends on another, would not involve it in any contradiction, but it would deprive the thing of any reality whatever; it would mean that it is utterly empty and void, has no being at all, is merely a show, an abstract nullity. This is not the Hegelian conception of appearance. The thing is not merely dependence—reflection-into-another. It is at the same time independent, a subsistence,—reflection-into-self. It is thus a contradiction. It is an independent which sets its own independence aside and makes itself a dependent. To regard the world as an appearance is to attribute to it an inner contradiction. And in point of fact, though Hegel does not mention it in this connection, this has always been the view of those philosophies which looked upon the world as appearance. Zeno the Eleatic sought to show that the world of sense is an explicit self-contradiction, and that consequently it is an appearance. Kant adopted similar reasoning.
+
+<a id="p-273"></a>
+**273.** Appearance is thus the contradiction of a reflection-into-self which is at the same time reflection-into-another. This identity of reflection-into-self with reflection-into-another gives us the important conclusion that the appearance is identical with the inner being, or essence, which appears. The reflection-into-self is the essence, the inner being. The reflection-into-another is the appearance, the outer being. But these two are identical. Thus the appearance is not a mere emptiness, an unreality, a nullity. For it is the essence. Essence and appearance are not two things, but one. It is the same thing put twice, now as essence and now as appearance. It is the essence itself which *appears*.
+
+This is a deeper thought than the common antithesis of appearance and reality, according to which the outer being is a merely illusory nothingness, while the inner being alone is real. The Indian describes the world as Maya, mere nothing, non-entity. For Hegel the world is likewise appearance, but the appearance is the essence; *i.e.* it is not less essential than the essence itself. This means that it is essential for the essence to appear; it is its very nature to appear. But in Indian thought it is impossible to conceive why Brahman should manifest himself. For this type of thought the essence and the appearance fall apart, as two quite different things, between which there is no real connection. For Hegel the essence and the appearance are identical, in spite of their difference. The essence has its very being in the appearance; it *must* pass into appearance. It is this conception then at which we have now arrived, and of which we must keep fast hold.
+
+<!-- original-content:end -->
+
+## 本节目录
+
+- [Section I. The World of Appearance](01-section-i-the-world-of-appearance.md) — §§ 274–275
+- [Section II. Content and Form](02-section-ii-content-and-form.md) — §§ 276–277
+- [Section III. Relation or Correlation](03-section-iii-relation-or-correlation/README.md) — §§ 278–290

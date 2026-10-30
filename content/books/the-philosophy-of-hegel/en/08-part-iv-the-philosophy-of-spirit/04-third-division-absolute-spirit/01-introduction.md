@@ -1,0 +1,38 @@
+[The Philosophy of Hegel](../../README.md) / [Part IV. The Philosophy of Spirit](../README.md) / [Third Division. Absolute Spirit](README.md)
+
+[上一篇：Third Division. Absolute Spirit](README.md) · [下一篇：Chapter I. Art](02-chapter-i-art/README.md)
+
+<!-- original-content:start -->
+#### Introduction
+
+<a id="p-634"></a>
+**634.** The defect of subjective spirit was that it was merely inward, and so one-sided. Objective spirit, on the other hand, exhibited the opposite one-sidedness. It was merely outward and objective, and had lost what is essential to the very notion of spirit, namely, consciousness or subjectivity. Spirit as soul, as sensation, as intellect, as appetite, as understanding, was conscious, personal, subjective. But spirit as family, as the moral law, as the state, is impersonal, unconscious, and purely objective. The state, for example, exists out there in the objective world. But it is not a conscious being, a person, an ego. It is not a subject.
+
+Subjective spirit and objective spirit exist, consequently, as two opposite extremes, each of which limits the other. Each is, therefore, finite. But it is the very nature of spirit to be infinite. Hence arises the necessity that spirit should transcend its finite subjectivity and its finite objectivity, and should become infinite and absolute spirit. In order to be absolute, spirit must overreach the division between subjectivity and objectivity, which it has created within itself, and must embrace both sides in a concrete unity. Absolute spirit must be both subject and object at the same time.
+
+As being subjective, absolute spirit will necessarily be a mode of human consciousness, and of individual consciousness. It cannot be a purely impersonal existence, such as the state. It must be the actual consciousness, existing in the minds of individual men, of some object. Only thus can absolute spirit satisfy the condition that it must be genuinely subjective.
+
+It is, therefore, the consciousness of *some* object. But what object? Now since, in the absolute spirit, the gulf between subject and object is annihilated, since both are embraced in a unity, this can only mean that subject and object are, here, identical. Spirit, therefore, has for its object in this sphere, nothing else than spirit itself. Absolute spirit, therefore, is the spirit’s contemplation of itself.
+
+But there is a further condition necessary. Even the empirical psychologist has for the object of his studies spirit or mind. But psychology is not a phase of the absolute spirit. For the object which the psychologist contemplates is only the *finite* mind, that is to say, the subjective mind as opposed to, and limited by, its object. The psychologist studies sensation, intellect, emotion, and the like. And all these phases of mind have objects other than themselves; as for example, sensation has the material world for its object. But absolute spirit has for its object only itself, and is, therefore, infinite. In it accordingly the entire opposition between subject and object has been overcome. And this can only be so where the mind at length realizes that its object — any object — is only itself. The stage of absolute spirit, therefore, is only reached when the mind realizes that whatever is opposed to it as an object, the sun, moon, stars, the entire physical and non-physical universe, is nothing other than spirit itself; when it realizes that it itself is all being and all reality, that it is, in fact, the Absolute. Absolute spirit is that final phase in which the spirit knows that in contemplating itself it is contemplating the Absolute. But since such absolute spirit only exists as subjective human consciousness, it may further be said that absolute spirit is the knowledge, by human beings, of the Absolute. All the modes under which human beings can be conscious of the Absolute, whether in art, religion, or philosophy, are phases of absolute spirit.
+
+Spirit and the Absolute are synonymous terms. Absolute spirit is, therefore, on the one hand, the knowledge of spirit by spirit. On the other hand it is the knowledge of the Absolute by the Absolute. Only in absolute spirit does the Absolute come to itself, come to know itself for what it truly is. Only as such is it truly the Absolute. For only as such is it self-knowing spirit.
+
+<a id="p-635"></a>
+**635.** The elevation from objective spirit to absolute spirit may also be expressed in terms of the notion of *freedom*. The essential content of the human mind is freedom. This freedom is proximately realized in the state. For being governed by the state man is governed only by himself (575). Nevertheless the state, as being purely objective, is alien to his subjectivity, is something other than himself. And his freedom therein is consequently incomplete.[^iv-absolute-intro-1] Absolutely free spirit can only be that spirit which has, finally and for ever, abolished all otherness of whatever description. Hence only the spirit which knows itself as all reality, which has no opposite, which sees in itself the whole of being, is entirely free. And since freedom, self-determination, and infinity, are but three words for the same idea, spirit as absolute spirit is, for the first time, out and out infinite. So far we have dealt only with the finite mind. But in art, religion, and philosophy, the human mind is infinite.
+
+<a id="p-636"></a>
+**636.** Absolute spirit has for its content the apprehension of the Absolute. And since the Absolute and God are identical terms, this sphere is in general the sphere of religion, which is none other than the knowledge of God, the apprehension of the divine and eternal. The apprehension of the Absolute takes place under three modes, which give us the three stages of absolute spirit, viz. (1) art, (2) religion (the term is used here in its more restricted sense), and (3) philosophy.
+
+<a id="p-637"></a>
+**637.** Since, as already pointed out, absolute spirit alone is entirely free and infinite, the above three stages are to be regarded as the grades of its progressive liberation from all finite condition. Traces of finitude still cling to the spirit in the spheres of art and religion. It is only in philosophy that it is absolutely free and infinite.
+
+<a id="p-638"></a>
+**638.** As to the oft-debated question of the relations which art, religion, and philosophy bear to one another, it follows from what has been said that all three are identical in substance, but different in form. The substance or content of all three is the same, viz. the eternal, infinite, and divine, in a word, the Absolute. The *aim*, or end, of all three is the apprehension of the absolute truth. They differ, however, inasmuch as the form in which the absolute truth is presented to consciousness, is in each case different. What those forms are we shall see in the following pages. For the present we may deduce this further conclusion from what has been already said, viz. that art, as the first phase, is the least adequate form in which the eternal is apprehended, that religion comes next highest, but that philosophy is the only absolutely adequate form of its apprehension. Further, since the substance of all three is the same, it is to the form that their relative superiority or inferiority attaches. Thus religion contains the same fundamental truth as philosophy, but expressed in an inferior form. The detailed explanation of these points must be left for the succeeding chapters.
+
+
+<!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+[^iv-absolute-intro-1]: *Osm*, i. pp. 135 *et seq*.
+<!-- local-footnotes:end -->

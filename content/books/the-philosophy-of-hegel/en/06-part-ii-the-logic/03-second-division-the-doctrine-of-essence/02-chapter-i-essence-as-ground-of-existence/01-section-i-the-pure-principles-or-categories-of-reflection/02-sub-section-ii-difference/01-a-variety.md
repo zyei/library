@@ -1,0 +1,13 @@
+[The Philosophy of Hegel](../../../../../README.md) / [Part II. The Logic](../../../../README.md) / [Second Division. The Doctrine of Essence](../../../README.md) / [Chapter I. Essence as Ground of Existence](../../README.md) / [Section I. The Pure Principles or Categories of Reflection](../README.md) / [Sub-Section II. Difference](README.md)
+
+[上一篇：Sub-Section II. Difference](README.md) · [下一篇：B. Likeness and Unlikeness](02-b-likeness-and-unlikeness.md)
+
+<!-- original-content:start -->
+###### A. Variety
+which is also called *diversity*. For in accordance with the general principle that the first member of a triad is an immediacy, difference, in its first phase, is immediate difference. This means that the differents do not, at this stage, fully mediate one another, are not dependent on one another, but are only loosely connected or indifferent to one another. Where a number of things are all different from each other without standing to each other in any specific relation of opposition we have **variety**.[^ii-ground-2] For example, a pencil is different from a camel. But there is no specific relation of opposition. A pencil is not the opposite of a camel; it is merely different, and this is variety. Light and darkness, on the other hand, are opposites. They are positive and negative. And this is *contrariety* as distinguished from mere variety. Contrariety is a category which has not yet appeared and which will be deduced very shortly. But we may by anticipation here distinguish it from variety in order to make the conception of variety clearer. True opposites mediate each other. The positive and negative depend on each other. Each is defined precisely as the opposite of the other. But things which are merely different, *i.e.* exhibit variety, have no such definite relationship. Each is what it is without reference to the other. A pencil is different from a camel, but so is a house, a cigarette, a battle, a star, a trumpet, or anything else in the universe. But in the relation of contrariety, each thing has, not an indefinite number of things opposed to it, but only one thing, one opposite, *its* opposite. Thus the only opposite of light is darkness. And since things which exhibit mere variety, stand in no essential relation to each other, are indifferent to each other, and do not depend on each other, hence they do not mediate each other, but are “immediate.” For this reason, difference, in its first phase, as immediate difference, is variety.
+
+<!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+[^ii-ground-2]: See § 239 above.
+<!-- local-footnotes:end -->

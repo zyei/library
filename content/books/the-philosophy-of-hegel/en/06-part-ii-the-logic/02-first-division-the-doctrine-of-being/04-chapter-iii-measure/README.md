@@ -1,0 +1,49 @@
+[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [First Division. The Doctrine of Being](../README.md)
+
+[上一篇：C. The Quantitative Ratio](../03-chapter-ii-quantity/03-section-iii-degree/03-c-the-quantitative-ratio.md) · [下一篇：A. The Specific Quantum](01-a-the-specific-quantum.md)
+
+<!-- original-content:start -->
+#### Chapter III. Measure
+
+<a id="p-233"></a>
+**233.** It has been pointed out that quantity is entirely external and indifferent to quality (186, 212). A field may be increased in size without this in any way affecting its quality as a field. Quantity, therefore, is wholly non-qualitative. But in the last category of quantity, namely ratio, quality again emerges, and this is a signal that we are now leaving the sphere of quantity behind. In what way does quality re-emerge in ratio? In what sense can ratio be said to be qualitative?
+
+Quantity is a determination which is external to what it determines. Quality, on the other hand, is an internal determination which is identical with the being which it determines. Self-determination, therefore, has the character of quality, not quantity; for what is self-determined has its determination in itself. It is *internally* determined, not determined by anything outside itself. And such internal determination is quality. Now it was precisely the idea of self-determination, which, appearing in the quantitative infinite progress, changed that category into ratio. One quantum passed into another. But this second quantum is identical with the first, so that the relation of the first quantum to the second is only its relation to itself. It is related to nothing but itself and is therefore self-determined. The appearance of self-determination here is the reappearance of quality. In ratio, to be more precise, quality appears on the side of the exponent.
+
+Thus in the expression 6: 3 = 2, the side 6: 3 is an *external* relation of two quanta, and is therefore quantitative. But the side 2 is a self-determined, self-related quantum. For it has been formed by the coalescence of the two quanta into one. Those two quanta were *externally* related to each other. But when they coalesce the relation between them becomes *internal* to the single quantum which is their result. This internal relation is a relation of the single quantum to itself; and because it is self-related it is qualitative.
+
+In more external fashion the same thing may be expressed thus. We have here a self-related being. To be self-related is to be a being-for-self. Being-for-self is a category of quality. Hence we have here a qualitative determination.
+
+This also expresses itself in the ratio as follows. The side of external relation, 6: 3, can be changed indefinitely without changing the exponent. Thus it may become 12:6, or 120: 60, without altering the exponent, which is still 2. These determinations 6:3, 12:6, etc., are thus external to the being which they determine, *i.e.* the exponent, and their alteration does not affect its being. And determinations which are thus external to the being of what is determined are, as we have seen, quantitative. But the case with the exponent is quite different. The 2 cannot be changed without altering the other side of the equation correspondingly. It cannot be changed to 3 unless we alter the ratio, say, to 9: 3. Thus the exponent is a determination which, if changed, likewise changes the being which it determines, viz. the other side of the equation. And determinations which are thus identical with the being, and with which the being varies, are qualitative.
+
+Hence in the ratio we have a combination of quantity and quality. We saw at the beginning of the last chapter (210) that quality, when fully developed as repulsion and attraction, passed into quantity. We see now that quantity when fully developed as ratio, passes back into quality. But this is not a mere relapse to quality. The result is still quantity, but it is a quantity which is also qualitative. It is the unity of quantity and quality. This is a new category, and a new sphere. It is called **Measure**. Measure is the synthesis of the triad of spheres, quality, quantity, measure. Quality was the first affirmation. It went over into its opposite, quantity. Quantity is non-qualitative. It is the negative of quality. It is especially defined as that which is external and indifferent to quality. Measure, then, as the unity of quantity and quality is the synthesis.
+
+<a id="p-234"></a>
+**234.** The English word measure is vague and ambiguous. All that is required, however, to remedy this, is to explain the special sense in which the word is here used. In Hegel the word (*Maass*) implies proportion, balance. We say that language is unmeasured when it is disproportionate to the truth expressed, when it does not retain its sense of balance.
+
+Proportion obviously contains the idea of quantity. Every proportion is expressible as a ratio. We use such expressions as well balanced, well proportioned, both in regard to material and spiritual things. In either case the meaning is that the elements of the thing stand to each other in proper quantitative relations. What is ill proportioned, on the other hand, has quantitatively too much of one element, too little of another; the ratio is wrong. But quality as well as quantity is contained in the idea of proportion. If the proportions of a thing vary beyond a certain limit, the whole character of the thing undergoes change. Its quality is altered. If the ratio of the sides of a square to each other are changed at all, the figure ceases to be a square. In the sphere of chemistry proportion is all-important and quality depends upon it. Water is hydrogen and oxygen combined in the ratio 2:1. If we make the ratio 1: 1, the whole quality of the substance completely changes, and instead of water we have hydrogen peroxide. Measure, therefore, may be defined as *the dependence of quality upon quantity*, or as *quantity upon which quality depends*.
+
+Other examples of measure are the following. The qualitative character of the constitution of a state depends to some extent on the size of its territory and population. The constitution of the Greek city-state cannot be reproduced unaltered in the huge territories of modern nations. The quality (pitch) of a musical tone depends upon the number of vibrations per second. Economy, increased beyond a certain *measure*, becomes avarice. Water, heated beyond a certain temperature, changes its quality and becomes steam; or cooled, becomes ice. Its *quality*, gaseous, liquid, or solid, depends upon the *quantity* of heat.
+
+<a id="p-235"></a>
+**235.** What is present in all these cases is that quality in some way depends upon quantity. And this is the conception of measure. When quantity first came before us in the dialectic it appeared as totally indifferent to quality. It was defined as a determination wholly external to the being (quality) of the thing. It was that which could be increased or diminished without altering the quality of the thing. It was the other of quality, the not-quality. But now the dialectic has shown us that quality and quantity are no more utterly indifferent and independent than being and nothing proved to be. The one involves the other. Each taken separately is an abstraction. The concrete unity in which both are combined is measure, which means the interdependence of quality and quantity. Hence Hegel’s definition “Measure is the qualitative quantum.”[^ii-measure-1]
+
+<a id="p-236"></a>
+**236.** Measure, like other categories, is a definition of the Absolute. Hegel observes, “God, it has been said, is the measure of all things. It is this idea which forms the ground-note of many of the ancient Hebrew hymns, in which the glorification of God tends in the main to show that he has appointed to everything its bound: to the sea and the solid land, to the rivers and mountains; also to the various kinds of plants and animals. To the religious sense of the Greeks the divinity of measure, especially in respect of social ethics, was represented by Nemesis. That conception implies a general theory that all human things, riches, honour, and power, as well as joy and pain, have their definite measure, the transgression of which brings ruin and destruction.”[^ii-measure-2] The point here is that what in general we may call success, if increased in *quantity* beyond a certain degree, changes its *quality*, and becomes disaster. This is clearly an example of measure. 
+
+<a id="p-237"></a>
+**237.** The sphere of measure falls into three categories, viz. (1) the specific quantum, (2) the measureless, (3) the infinite of measure.[^ii-measure-3]
+
+<!-- original-content:end -->
+
+## 本节目录
+
+- [A. The Specific Quantum](01-a-the-specific-quantum.md) — §§ 238–240
+- [B. The Measureless](02-b-the-measureless.md)
+- [C. The Infinite of Measure](03-c-the-infinite-of-measure.md) — § 241
+
+<!-- local-footnotes:start -->
+[^ii-measure-1]: Wal., *Log.*, § 107.
+[^ii-measure-2]: Wal., *Log.*, § 107 Z.
+[^ii-measure-3]: No actual division of the sphere of measure into its separate categories is given in the *Encyclopaedia*. In the greater *Logic* there are thirteen categories of measure but this does not help us, because we are here following the *Encyclopaedia*. And as the division into categories is not clearly indicated, though obviously several categories are involved, the disentanglement of these categories from Hegel's compact paragraphs is a matter of some difficulty. Dr. McTaggart (*Com.*, § 94), proposes the division (1) specific quantum, (2) measureless, (3) the becoming of essence. But it seems to me that the third category is described in § 110 of the *Encyclopaedia*. Hegel there gives it no name. I have accordingly, of necessity, had to invent a name for it. Hence it appears here as the *infinite of measure*.
+<!-- local-footnotes:end -->
