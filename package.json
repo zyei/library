@@ -7,7 +7,6 @@
     "node": ">=22"
   },
   "scripts": {
-    "sync:hegel": "node scripts/import-hegel.mjs",
     "generate": "node scripts/generate.mjs",
     "dev": "npm run generate && vitepress dev docs --host 127.0.0.1",
     "build": "npm run generate && vitepress build docs && npm run check",

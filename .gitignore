@@ -8,3 +8,4 @@ docs/books/
 docs/public/reader-data/
 *.log
 .DS_Store
+/.npmrc
