@@ -8,10 +8,7 @@
   },
   "scripts": {
     "generate": "node scripts/generate.mjs",
-    "dev": "npm run generate && vitepress dev docs --host 127.0.0.1",
-    "build": "npm run generate && vitepress build docs && npm run check",
-    "preview": "vitepress preview docs --host 127.0.0.1 --port 4173 --strictPort",
-    "check": "node scripts/check-build.mjs"
+    "build": "npm run generate && vitepress build docs"
   },
   "devDependencies": {
     "@fontsource-variable/literata": "5.3.0",

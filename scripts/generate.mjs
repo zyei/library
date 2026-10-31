@@ -80,7 +80,7 @@ for (const { book, edition, documents: allDocuments, manifest } of editions) {
     }) + payload)
   }
 }
-const books = catalog.books.map(book => ({ ...book, editions: book.editions.map(({ directory, sourceSha256, website, appendix, ...edition }) => ({
+const books = catalog.books.map(book => ({ ...book, editions: book.editions.map(({ directory, website, appendix, ...edition }) => ({
   ...edition, startRoute: starts.get(`${book.id}/${edition.id}`)
 })) }))
 await writeFile(path.join(generated, 'catalog.json'), JSON.stringify({ books }))
