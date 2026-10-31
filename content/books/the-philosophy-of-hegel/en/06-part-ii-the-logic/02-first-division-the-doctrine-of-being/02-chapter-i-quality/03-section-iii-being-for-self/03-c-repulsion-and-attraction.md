@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md) / [Section III. Being-for-self](README.md)
-
-[上一篇：B. The Many](02-b-the-many.md) · [下一篇：Chapter II. Quantity](../../03-chapter-ii-quantity/README.md)
-
 <!-- original-content:start -->
 ###### C. Repulsion and Attraction
 
@@ -20,3 +16,6 @@ But the many are one the same as another. Each is one. Hence they are one and th
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

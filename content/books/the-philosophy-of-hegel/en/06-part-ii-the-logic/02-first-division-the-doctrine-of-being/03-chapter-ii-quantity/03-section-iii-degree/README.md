@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter II. Quantity](../README.md)
-
-[上一篇：C. Number](../02-section-ii-quantum/03-c-number.md) · [下一篇：A. Degree](01-a-degree.md)
-
 <!-- original-content:start -->
 ##### Section III. Degree
 
@@ -25,8 +21,5 @@ According to Hegel, weight, heat, light, sound, etc., are examples of this ident
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [A. Degree](01-a-degree.md) — § 228
-- [B. The Quantitative Infinite Progress](02-b-the-quantitative-infinite-progress.md) — §§ 229–231
-- [C. The Quantitative Ratio](03-c-the-quantitative-ratio.md) — § 232
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

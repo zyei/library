@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter II. Phenomenology—Consciousness](../README.md)
-
-[上一篇：Chapter II. Phenomenology—Consciousness](../README.md) · [下一篇：Sub-Section I. Sensuous Consciousness](01-sub-section-i-sensuous-consciousness.md)
-
 <!-- original-content:start -->
 ##### Section I. Consciousness Proper
 
@@ -10,8 +6,5 @@
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. Sensuous Consciousness](01-sub-section-i-sensuous-consciousness.md) — §§ 472–473
-- [Sub-Section II. Sense-Perception](02-sub-section-ii-sense-perception.md) — §§ 474–475
-- [Sub-Section III. Intellect](03-sub-section-iii-intellect.md) — §§ 476–479
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

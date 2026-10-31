@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part II. The Logic](../README.md) / [Second Division. The Doctrine of Essence](README.md)
-
-[上一篇：Second Division. The Doctrine of Essence](README.md) · [下一篇：Chapter I. Essence as Ground of Existence](02-chapter-i-essence-as-ground-of-existence/README.md)
-
 <!-- original-content:start -->
 #### Introduction
 

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md)
-
-[上一篇：D. Results](../01-chapter-i-greek-idealism-and-hegel/04-d-results.md) · [下一篇：A. Spinoza and Hegel](01-a-spinoza-and-hegel.md)
-
 <!-- original-content:start -->
 ### Chapter II. Modern Philosophy and Hegel
 
@@ -12,9 +8,5 @@ But before coming to Kant we must briefly refer to the one pre-Kantian thinker w
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [A. Spinoza and Hegel](01-a-spinoza-and-hegel.md) — §§ 42–44
-- [B. Hume and Kant](02-b-hume-and-kant.md) — §§ 45–59
-- [C. The onward march from Kant](03-c-the-onward-march-from-kant.md) — §§ 60–62
-- [D. Criticism of the Conception of the Unknowable](04-d-criticism-of-the-conception-of-the-unknowable.md) — §§ 63–69
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

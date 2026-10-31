@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Second Division. The Doctrine of Essence](../../README.md) / [Chapter II. Appearance](../README.md) / [Section III. Relation or Correlation](README.md)
-
-[上一篇：Section III. Relation or Correlation](README.md) · [下一篇：Sub-Section II. Force and Manifestation of Force](02-sub-section-ii-force-and-manifestation-of-force.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. The Whole and the Parts
 

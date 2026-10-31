@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter II. Modern Philosophy and Hegel](README.md)
-
-[上一篇：A. Spinoza and Hegel](01-a-spinoza-and-hegel.md) · [下一篇：C. The onward march from Kant](03-c-the-onward-march-from-kant.md)
-
 <!-- original-content:start -->
 #### B. Hume and Kant
 
@@ -69,3 +65,6 @@ and from this list Kant derives the corresponding concepts as follows:—
 **59.** Now to say all this amounts to saying that reality is unknowable. The thing-in-itself is the reality; it is what really exists apart from the subjective conceptions of our minds. The thing as we know it is an appearance. The thing as it is in reality is not in space or time, has neither quantity, nor quality, nor relation, and is, in a word, entirely inconceivable to us. What, then, is to be said of our so-called knowledge? What must be said is this, that our knowledge is sound and good, within the limits of appearance, within the limits of our experience. No doubt the entire world as we know it is appearance, but it is not mere illusion, because the forms of this appearance are universal and necessary. They apply to all minds constructed as ours are. They are not merely the groundless fancies of *an individual’s* mind; which is what is meant by illusion. So we may say that this world of appearance is a reality *for us*. But if we imagine that it is possible for us to know reality as it is in itself, then we are deluding ourselves. Hence knowledge must stick to the world of experience. Beyond this it cannot go. It cannot penetrate to the secret inner reality of the world. That reality is for ever unknowable to us by reason of the very way our minds are constructed. And since experience means only the universe as surveyed by our external and internal senses, the last word of Kant must needs be that only knowledge of phenomena is possible, the phenomena of the sense-world on the one hand, and the phenomena of the inner psychic world of mind on the other.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

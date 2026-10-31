@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Second Division. The Doctrine of Essence](../README.md) / [Chapter III. Actuality](README.md)
-
-[上一篇：Section II. The Relationship of Causality](02-section-ii-the-relationship-of-causality.md) · [下一篇：Third Division. The Doctrine of the Notion](../../04-third-division-the-doctrine-of-the-notion/README.md)
-
 <!-- original-content:start -->
 ##### Section III. The Relationship of Reciprocity
 

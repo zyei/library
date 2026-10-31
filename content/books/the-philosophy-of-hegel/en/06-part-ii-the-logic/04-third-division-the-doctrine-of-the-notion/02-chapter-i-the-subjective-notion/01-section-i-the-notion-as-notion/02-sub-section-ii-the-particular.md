@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter I. The Subjective Notion](../README.md) / [Section I. The Notion as Notion](README.md)
-
-[上一篇：Sub-Section I. The Universal](01-sub-section-i-the-universal.md) · [下一篇：Sub-Section III. The Singular, or Individual](03-sub-section-iii-the-singular-or-individual.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. The Particular
 

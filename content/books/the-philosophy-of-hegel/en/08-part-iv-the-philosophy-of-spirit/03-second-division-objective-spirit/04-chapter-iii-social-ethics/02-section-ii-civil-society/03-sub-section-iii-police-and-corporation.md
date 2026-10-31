@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Second Division. Objective Spirit](../../README.md) / [Chapter III. Social Ethics](../README.md) / [Section II. Civil Society](README.md)
-
-[上一篇：Sub-Section II. Administration of Justice](02-sub-section-ii-administration-of-justice.md) · [下一篇：Section III. The State](../03-section-iii-the-state/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. Police and Corporation
 

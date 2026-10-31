@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Second Division. Objective Spirit](../README.md)
-
-[上一篇：Section III. Wrong](../02-chapter-i-abstract-right/03-section-iii-wrong.md) · [下一篇：Section I. Purpose](01-section-i-purpose.md)
-
 <!-- original-content:start -->
 #### Chapter II. Morality
 
@@ -29,12 +25,6 @@ As morality is a one-sided abstraction which has to be corrected by social ethic
 **561.** Morality passes through three stages, (1) purpose, (2) intention and well-being, (3) goodness and wickedness. It is only in the last that morality can properly be said to have come into existence. The first two are mere factors of the third.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. Purpose](01-section-i-purpose.md) — § 562
-- [Section II. Intention and Well-Being](02-section-ii-intention-and-well-being.md) — §§ 563–565
-- [Section III. Goodness and Wickedness](03-section-iii-goodness-and-wickedness.md) — §§ 566–570
 
 <!-- local-footnotes:start -->
 [^iv-moral-1]: This passage will not be intelligible unless the reader has clearly grasped the meaning of the word notion (*Begriff*) as used by Hegel. The fact that Hegel uses this word with three different applications is apt to be most confusing to the beginner. Firstly, there is *the* Notion, the category of pure Logic which supersedes essence, and has been fully treated in its place. Secondly, any of the categories of the Logic are referred to as “notions.” Being, becoming, appearance, are notions. These are pure thoughts which differ from Plato’s Ideas only because they are non-sensuous, universal and necessary, and because they are not abstract universals, but self-generating universals which give birth to their own differentiae and species. Thirdly, Hegel speaks of the notions of particular things, the notions of man, of freedom, of the plant, the animal, or, as here, the notion of the will. This kind of notion differs from the second kind of notion, viz. pure categories, only in this that they are thoughts, universals, which do not apply, as the categories do, to everything in the universe, but only to specific things, man, animal, will, and so on. The notions of these things are their concepts, the general ideas of them, just like Plato’s Idea of the man, Idea of the plant, etc. But they differ from Plato’s Ideas in the following respects. Plato’s Ideas are reached by mere empirical induction, and hence do not possess necessity. Hegel’s notions are deduced, and are therefore *necessary* concepts. Plato’s Ideas are abstract, and therefore sterile and motionless. Hegel’s notions generate their opposites, and so their differentiae and species, out of themselves. But, like Plato’s Ideas, the notions are *definitions* and give the essential nature of the thing, what the thing *ought* to be. Hence here we find that the notion of the will is what the will ought to be.

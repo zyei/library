@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter I. Anthropology—The Soul](../README.md)
-
-[上一篇：Sub-Section III. Sensibility](../01-section-i-the-natural-soul/03-sub-section-iii-sensibility.md) · [下一篇：Sub-Section I. The Feeling Soul in its Immediacy](01-sub-section-i-the-feeling-soul-in-its-immediacy.md)
-
 <!-- original-content:start -->
 ##### Section II. The Feeling Soul
 
@@ -12,8 +8,5 @@ Hence the distinction between sensation, which was the subject of the last sub-s
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. The Feeling Soul in its Immediacy](01-sub-section-i-the-feeling-soul-in-its-immediacy.md) — § 460
-- [Sub-Section II. Self-Feeling](02-sub-section-ii-self-feeling.md) — §§ 461–462
-- [Sub-Section III. Habit](03-sub-section-iii-habit.md) — §§ 463–464
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

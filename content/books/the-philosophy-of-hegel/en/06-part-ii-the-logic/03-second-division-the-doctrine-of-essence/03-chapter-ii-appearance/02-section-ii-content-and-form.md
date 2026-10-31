@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Second Division. The Doctrine of Essence](../README.md) / [Chapter II. Appearance](README.md)
-
-[上一篇：Section I. The World of Appearance](01-section-i-the-world-of-appearance.md) · [下一篇：Section III. Relation or Correlation](03-section-iii-relation-or-correlation/README.md)
-
 <!-- original-content:start -->
 ##### Section II. Content and Form
 
@@ -12,3 +8,6 @@
 **277.** This shows the difference between the categories of matter and form, on the one hand, and content and form, on the other. We might easily imagine that they are the same thing, and that Hegel makes no advance here, but merely repeats himself. In matter and form the two sides are indifferent to each other. The matter is regarded as *formless*, and the form as *matterless*. Each disregards the other. They are separate and merely externally connected. But in content and form the two sides are so far from being indifferent to each other that they completely interpenetrate and determine each other. It is now seen that there is no such thing as formless matter. Even the bare matter has form in itself and when so regarded it is not matter, but content.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

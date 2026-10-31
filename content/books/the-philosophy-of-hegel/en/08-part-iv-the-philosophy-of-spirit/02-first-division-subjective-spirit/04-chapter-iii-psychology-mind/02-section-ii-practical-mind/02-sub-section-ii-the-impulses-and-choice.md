@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter III. Psychology—Mind](../README.md) / [Section II. Practical Mind](README.md)
-
-[上一篇：Sub-Section I. Practical Sense or Feeling](01-sub-section-i-practical-sense-or-feeling.md) · [下一篇：Sub-Section III. Happiness](03-sub-section-iii-happiness.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. The Impulses and Choice
 

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../README.md) / [Part IV. The Philosophy of Spirit](README.md)
-
-[上一篇：Part IV. The Philosophy of Spirit](README.md) · [下一篇：First Division. Subjective Spirit](02-first-division-subjective-spirit/README.md)
-
 <!-- original-content:start -->
 ### Introduction
 
@@ -27,3 +23,6 @@
 **443.** As in the Logic and the philosophy of nature, it must of course be understood that the successive phases of the evolution of spirit do not constitute a time-series. The process is a purely logical process. And the transition from one phase to the next is a logical deduction. Just as the category nothing is deduced from the category being, so here objective spirit is deduced from subjective spirit, religion from art, philosophy from religion. Or at least, this is what Hegel aims at. Whether the deductions are in fact valid and successful is of course another question. But because we have here, in theory at least, a chain of deductive reasoning stretching without a break from the first page of the Logic to the last page of the philosophy of spirit, and because this systematic development comprises everything in the universe, material or spiritual, therefore, in this way, the entire universe is *explained*, *i.e.* shown to be the necessary logical consequence of its first reason, which first reason is the consequence of itself (self-determined).
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

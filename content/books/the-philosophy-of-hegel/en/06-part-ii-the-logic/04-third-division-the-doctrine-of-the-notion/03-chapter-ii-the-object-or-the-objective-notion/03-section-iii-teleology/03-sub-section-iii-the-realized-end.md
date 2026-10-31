@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter II. The Object; or, the Objective Notion](../README.md) / [Section III. Teleology](README.md)
-
-[上一篇：Sub-Section II. The Means](02-sub-section-ii-the-means.md) · [下一篇：Chapter III. The Idea](../../04-chapter-iii-the-idea/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. The Realized End
 

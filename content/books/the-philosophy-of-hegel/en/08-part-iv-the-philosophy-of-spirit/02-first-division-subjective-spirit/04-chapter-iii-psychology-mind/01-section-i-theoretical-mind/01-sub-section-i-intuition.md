@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter III. Psychology—Mind](../README.md) / [Section I. Theoretical Mind](README.md)
-
-[上一篇：Section I. Theoretical Mind](README.md) · [下一篇：Sub-Section II. Representation](02-sub-section-ii-representation/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. Intuition
 

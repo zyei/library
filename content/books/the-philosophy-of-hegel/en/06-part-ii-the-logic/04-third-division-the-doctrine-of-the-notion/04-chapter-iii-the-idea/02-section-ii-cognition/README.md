@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter III. The Idea](../README.md)
-
-[上一篇：Sub-Section III. The Kind](../01-section-i-life/03-sub-section-iii-the-kind.md) · [下一篇：Sub-Section I. Cognition Proper—The True](01-sub-section-i-cognition-proper-the-true.md)
-
 <!-- original-content:start -->
 ##### Section II. Cognition
 
@@ -22,11 +18,6 @@ Thus cognition has the two sub-divisions (1) cognition proper, (2) volition. The
 **398.** The word cognition, as ordinarily employed, does not include volition, to which, in fact, it is usually opposed. Hegel, however, uses the word to include both cognition proper, *i.e.* what is ordinarily called cognition, and will. Dr. McTaggart suggests that the word consciousness would have been more suitable than cognition.[^ii-idea-8]
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Sub-Section I. Cognition Proper—The True](01-sub-section-i-cognition-proper-the-true.md) — §§ 399–401
-- [Sub-Section II. Volition—The Good](02-sub-section-ii-volition-the-good.md) — §§ 402–403
 
 <!-- local-footnotes:start -->
 [^ii-idea-8]: *Com.* § 278.

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter III. Hegel](README.md)
-
-[上一篇：F. Monism and the Deduction of the Categories](06-f-monism-and-the-deduction-of-the-categories.md) · [下一篇：H. The Dialectic Method.](08-h-the-dialectic-method.md)
-
 <!-- original-content:start -->
 #### G. Which is the first Category?
 
@@ -29,3 +25,6 @@ A more general universal differs from a less general one by being more abstract.
 **120.** We can see that being is presupposed by, and logically prior to, all other categories. For example, quantity, quality, cause, substance, all presuppose being. A cause is a special kind of being. Nobody could have the idea of a cause unless he first had the idea of being. But the opposite is not true. One can frame the simple idea of being without knowing what is meant by the complicated idea of cause, just as one can have the idea of animal without the idea of horse. So too one cannot know what quantity is without the idea of being. And the same is true of the other categories.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

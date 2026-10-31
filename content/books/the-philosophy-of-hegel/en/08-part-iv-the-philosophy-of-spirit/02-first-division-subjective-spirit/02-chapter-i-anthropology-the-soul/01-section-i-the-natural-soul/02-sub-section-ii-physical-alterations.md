@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter I. Anthropology—The Soul](../README.md) / [Section I. The Natural Soul](README.md)
-
-[上一篇：Sub-Section I. Physical Qualities](01-sub-section-i-physical-qualities.md) · [下一篇：Sub-Section III. Sensibility](03-sub-section-iii-sensibility.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. Physical Alterations
 

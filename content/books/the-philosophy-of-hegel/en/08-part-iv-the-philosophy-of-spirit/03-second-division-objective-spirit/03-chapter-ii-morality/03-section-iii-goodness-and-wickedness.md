@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Second Division. Objective Spirit](../README.md) / [Chapter II. Morality](README.md)
-
-[上一篇：Section II. Intention and Well-Being](02-section-ii-intention-and-well-being.md) · [下一篇：Chapter III. Social Ethics](../04-chapter-iii-social-ethics/README.md)
-
 <!-- original-content:start -->
 ##### Section III. Goodness and Wickedness
 
@@ -25,3 +21,6 @@ We must not expect then, in the present chapter, to get any deduction of positiv
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

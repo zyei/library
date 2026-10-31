@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Second Division. The Doctrine of Essence](../../README.md) / [Chapter I. Essence as Ground of Existence](../README.md) / [Section III. The Thing](README.md)
-
-[上一篇：Section III. The Thing](README.md) · [下一篇：Sub-Section II. The Thing and Matters](02-sub-section-ii-the-thing-and-matters.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. The Thing and Its Properties
 
@@ -16,3 +12,6 @@ Quality, however, is not the same as property. The something has a quality or mo
 Objection may be made that it is impossible to distinguish quality and property in this way. Thus the being of red light consists simply and solely in its redness. Redness is a quality. But it may also be looked on as a property since it involves the influence of the light upon the eye. The answer is that every quality may certainly be regarded as a property, but that this involves a new point of view and the application of a new and more concrete category. It is of the very essence of the dialectic that one category turns into another, that what is at first regarded under an abstract category not only may, but *must*, come to be regarded under a more concrete category. What is now regarded as being must next be thought of as essence, and finally it turns out that the Notion is the only category that truly describes it. In just the same way a quality, such as redness, not only may but must come to be regarded, in the course of the dialectic, as a property. So that the mere fact that there is no quality of a thing which cannot also be regarded as a property is no proof that quality and property are the same category.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

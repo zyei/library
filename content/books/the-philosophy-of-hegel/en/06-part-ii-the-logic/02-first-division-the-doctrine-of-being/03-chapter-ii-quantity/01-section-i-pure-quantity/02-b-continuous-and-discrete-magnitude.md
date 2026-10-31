@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter II. Quantity](../README.md) / [Section I. Pure Quantity](README.md)
-
-[上一篇：A. Pure Quantity](01-a-pure-quantity.md) · [下一篇：C. Limitation of Quantity](03-c-limitation-of-quantity.md)
-
 <!-- original-content:start -->
 ###### B. Continuous and Discrete Magnitude
 
@@ -24,3 +20,6 @@ But to ask thus whether space is composed of indivisible units, or is divisible 
 **220.** Now quantum differs from pure quantity by the fact that it is definite. To get a quantum we must introduce definiteness, or limits, into quantity. Space in general is quantity. A limited amount of space, *e.g.* ten feet, is a quantum. Hence the transition to quantum must be made through the category of
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter II. Modern Philosophy and Hegel](README.md)
-
-[上一篇：B. Hume and Kant](02-b-hume-and-kant.md) · [下一篇：D. Criticism of the Conception of the Unknowable](04-d-criticism-of-the-conception-of-the-unknowable.md)
-
 <!-- original-content:start -->
 #### C. The onward march from Kant
 
@@ -17,3 +13,6 @@
 Lastly, the belief that there can be anything unknowable in the universe is exploded with the thing-in-itself. To say that anything is unknowable is self-contradictory. Hence everything must be knowable. There is no limit to the aspirations of human knowledge. The infinite, the Absolute itself, lie open to us. And these are the thoughts which inspired the victorious march of philosophy after Kant. Fichte, Schelling, Schopenhauer, and Hegel,—these were the offspring of the Kantian philosophy shorn of its unnecessary appendage, the thing-in-itself.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

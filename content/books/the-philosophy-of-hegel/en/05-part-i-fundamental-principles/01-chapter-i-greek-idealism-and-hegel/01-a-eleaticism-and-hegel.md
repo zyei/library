@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter I. Greek Idealism and Hegel](README.md)
-
-[上一篇：Chapter I. Greek Idealism and Hegel](README.md) · [下一篇：B. Plato and Hegel](02-b-plato-and-hegel/README.md)
-
 <!-- original-content:start -->
 #### A. Eleaticism and Hegel
 

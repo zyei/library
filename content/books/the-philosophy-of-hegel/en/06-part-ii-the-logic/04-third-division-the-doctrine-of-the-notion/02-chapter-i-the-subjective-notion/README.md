@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Third Division. The Doctrine of the Notion](../README.md)
-
-[上一篇：Introduction](../01-introduction.md) · [下一篇：Section I. The Notion as Notion](01-section-i-the-notion-as-notion/README.md)
-
 <!-- original-content:start -->
 #### Chapter I. The Subjective Notion
 
@@ -13,12 +9,6 @@ Thus it will be seen that this part of the Logic treats the same material as For
 The Hegelian treatment of the subject proceeds, on the other hand, according to the dialectic method. The different species of judgment and syllogism are not merely asserted but are *deduced*. And in this way Logic is raised from the level of a heap of empirical facts to the level of a rational science, which, as the science of reason, it, above all others, surely ought to be.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. The Notion as Notion](01-section-i-the-notion-as-notion/README.md) — §§ 314–321
-- [Section II. The Judgment](02-section-ii-the-judgment/README.md) — §§ 322–346
-- [Section III. The Syllogism](03-section-iii-the-syllogism/README.md) — §§ 347–363
 
 <!-- local-footnotes:start -->
 [^ii-iii-i-1]: Macran, p. 163.

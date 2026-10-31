@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [First Division. The Doctrine of Being](../README.md) / [Chapter III. Measure](README.md)
-
-[上一篇：B. The Measureless](02-b-the-measureless.md) · [下一篇：Second Division. The Doctrine of Essence](../../03-second-division-the-doctrine-of-essence/README.md)
-
 <!-- original-content:start -->
 ##### C. The Infinite of Measure
 
@@ -17,3 +13,6 @@ In quality and quantity the true infinite was reached by pointing out that the p
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md) / [Section II. Determinate Being](README.md)
-
-[上一篇：C. The Spurious Infinite](02-sub-section-ii-limit/03-c-the-spurious-infinite.md) · [下一篇：Section III. Being-for-self](../03-section-iii-being-for-self/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. The True Infinite
 

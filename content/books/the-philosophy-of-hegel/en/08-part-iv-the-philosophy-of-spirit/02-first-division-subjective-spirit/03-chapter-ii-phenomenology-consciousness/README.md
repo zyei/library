@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [First Division. Subjective Spirit](../README.md)
-
-[上一篇：Section III. The Actual Soul](../02-chapter-i-anthropology-the-soul/03-section-iii-the-actual-soul.md) · [下一篇：Section I. Consciousness Proper](01-section-i-consciousness-proper/README.md)
-
 <!-- original-content:start -->
 #### Chapter II. Phenomenology[^iv-phen-1]—Consciousness
 
@@ -17,12 +13,6 @@
 The philosophic mind may know that what thus seems a change in the object is in reality a change in the subject. For the philosophic mind knows that the external world is not really an independent reality, but is only the product and projection of mind itself, and that whatever happens is but the result of its own spontaneous activity. But this is not the point of view of the stage of consciousness at which we have arrived. For consciousness, it seems to be the object which undergoes change.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. Consciousness Proper](01-section-i-consciousness-proper/README.md) — §§ 471–479
-- [Section II. Self-Consciousness](02-section-ii-self-consciousness/README.md) — §§ 480–490
-- [Section III. Reason](03-section-iii-reason.md) — § 491
 
 <!-- local-footnotes:start -->
 [^iv-phen-1]: This term is used in a much narrower sense here, *i.e.* in the *Encyclopaedia*, than in the *Phenomenology of Mind*. The following account is, as usual, based on the *Encyclopaedia*, but I have supplemented it from the fuller explanations given in the *Phenomenology of Mind*.

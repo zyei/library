@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Third Division. Absolute Spirit](../README.md) / [Chapter I. Art](README.md)
-
-[上一篇：Chapter I. Art](README.md) · [下一篇：Section II. The Types of Art](02-section-ii-the-types-of-art/README.md)
-
 <!-- original-content:start -->
 ##### Section I. Beauty in General
 

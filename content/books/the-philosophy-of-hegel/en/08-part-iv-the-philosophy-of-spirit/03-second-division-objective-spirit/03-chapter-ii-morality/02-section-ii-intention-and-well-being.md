@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Second Division. Objective Spirit](../README.md) / [Chapter II. Morality](README.md)
-
-[上一篇：Section I. Purpose](01-section-i-purpose.md) · [下一篇：Section III. Goodness and Wickedness](03-section-iii-goodness-and-wickedness.md)
-
 <!-- original-content:start -->
 ##### Section II. Intention and Well-Being
 

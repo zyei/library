@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter I. The Subjective Notion](../README.md)
-
-[上一篇：Sub-Section IV. The Judgment of the Notion](../02-section-ii-the-judgment/04-sub-section-iv-the-judgment-of-the-notion.md) · [下一篇：Sub-Section I. The Qualitative Syllogism](01-sub-section-i-the-qualitative-syllogism.md)
-
 <!-- original-content:start -->
 ##### Section III. The Syllogism
 
@@ -31,8 +27,5 @@ The particular is the middle term which mediates between the singular and the un
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. The Qualitative Syllogism](01-sub-section-i-the-qualitative-syllogism.md) — §§ 351–355
-- [Sub-Section II. The Syllogism of Reflection](02-sub-section-ii-the-syllogism-of-reflection.md) — §§ 356–359
-- [Sub-Section III. The Syllogism of Necessity](03-sub-section-iii-the-syllogism-of-necessity.md) — §§ 360–363
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

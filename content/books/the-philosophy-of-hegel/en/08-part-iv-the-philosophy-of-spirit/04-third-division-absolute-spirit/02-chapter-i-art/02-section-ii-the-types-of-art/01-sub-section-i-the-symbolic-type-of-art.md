@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Third Division. Absolute Spirit](../../README.md) / [Chapter I. Art](../README.md) / [Section II. The Types of Art](README.md)
-
-[上一篇：Section II. The Types of Art](README.md) · [下一篇：Sub-Section II. The Classical Type of Art](02-sub-section-ii-the-classical-type-of-art.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. The Symbolic Type of Art
 

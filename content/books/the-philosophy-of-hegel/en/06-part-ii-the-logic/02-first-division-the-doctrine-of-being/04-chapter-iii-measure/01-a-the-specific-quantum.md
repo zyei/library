@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [First Division. The Doctrine of Being](../README.md) / [Chapter III. Measure](README.md)
-
-[上一篇：Chapter III. Measure](README.md) · [下一篇：B. The Measureless](02-b-the-measureless.md)
-
 <!-- original-content:start -->
 ##### A. The Specific Quantum
 

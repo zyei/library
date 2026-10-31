@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter II. Modern Philosophy and Hegel](README.md)
-
-[上一篇：Chapter II. Modern Philosophy and Hegel](README.md) · [下一篇：B. Hume and Kant](02-b-hume-and-kant.md)
-
 <!-- original-content:start -->
 #### A. Spinoza and Hegel
 
@@ -17,3 +13,6 @@ When, therefore, we meet Hegel talking about “the portentous power of the nega
 **44.** The Hegelian doctrine of the infinite also owes much to Spinoza. To be infinite means to be unlimited. Now to be determined is to be limited. For determination is limitation. This would lead to the conclusion that the infinite is the undetermined. And since what has no determinations has no character of any kind, since nothing can be predicated of it, the undetermined is, therefore, the completely empty. It is, in fact, nothing, mere vacancy. And the substance of Spinoza is really this undetermined vacancy. But there is another thought which lies, inconsistently perhaps, at the root of the philosophy of Spinoza. He says that substance is *causa sui*, the cause of itself. It is, therefore, not the undetermined but the self-determined. Its determinations do not arise from any outside source but only from itself. And that the infinite is not merely the endless, the unlimited, the undetermined, as in popular conception, but is the self-determined,—this is the fundamental Hegelian conception of infinity. Not, of course, that this exhausts the Hegelian doctrine of the infinite. On the contrary it leaves out its most characteristic element. But the roots of Hegel’s teaching on the subject lie here in Spinoza.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [First Division. The Doctrine of Being](../README.md)
-
-[上一篇：Introduction](../01-introduction.md) · [下一篇：Section I. Being](01-section-i-being/README.md)
-
 <!-- original-content:start -->
 #### Chapter I. Quality
 
@@ -10,8 +6,5 @@
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Section I. Being](01-section-i-being/README.md) — §§ 177–184
-- [Section II. Determinate Being](02-section-ii-determinate-being/README.md) — §§ 185–202
-- [Section III. Being-for-self](03-section-iii-being-for-self/README.md) — §§ 203–209
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

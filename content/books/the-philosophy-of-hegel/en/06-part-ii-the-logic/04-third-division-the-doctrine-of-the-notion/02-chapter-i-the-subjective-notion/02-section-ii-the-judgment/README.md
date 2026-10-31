@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter I. The Subjective Notion](../README.md)
-
-[上一篇：Further Explanations](../01-section-i-the-notion-as-notion/04-further-explanations.md) · [下一篇：Sub-Section I. The Qualitative Judgment](01-sub-section-i-the-qualitative-judgment.md)
-
 <!-- original-content:start -->
 ##### Section II. The Judgment
 
@@ -33,13 +29,6 @@ Or it may be admitted that the categories of the Notion apply only to thought an
 **326.** The judgment develops itself through four ascending stages, (1) the qualitative judgment, (2) the judgment of reflection, (3) the judgment of necessity, and (4) the judgment of the Notion. (It will be noticed that Hegel here abandons the usual triadic division.)
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Sub-Section I. The Qualitative Judgment](01-sub-section-i-the-qualitative-judgment.md) — §§ 327–331
-- [Sub-Section II. The Judgment of Reflection](02-sub-section-ii-the-judgment-of-reflection.md) — §§ 332–338
-- [Sub-Section III. The Judgment of Necessity](03-sub-section-iii-the-judgment-of-necessity.md) — §§ 339–342
-- [Sub-Section IV. The Judgment of the Notion](04-sub-section-iv-the-judgment-of-the-notion.md) — §§ 343–346
 
 <!-- local-footnotes:start -->
 [^ii-iii-i-4]: See §239 above.

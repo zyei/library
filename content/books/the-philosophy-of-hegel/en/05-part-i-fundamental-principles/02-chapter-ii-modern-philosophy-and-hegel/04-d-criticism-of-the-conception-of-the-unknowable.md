@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter II. Modern Philosophy and Hegel](README.md)
-
-[上一篇：C. The onward march from Kant](03-c-the-onward-march-from-kant.md) · [下一篇：Chapter III. Hegel](../03-chapter-iii-hegel/README.md)
-
 <!-- original-content:start -->
 #### D. Criticism of the Conception of the Unknowable
 

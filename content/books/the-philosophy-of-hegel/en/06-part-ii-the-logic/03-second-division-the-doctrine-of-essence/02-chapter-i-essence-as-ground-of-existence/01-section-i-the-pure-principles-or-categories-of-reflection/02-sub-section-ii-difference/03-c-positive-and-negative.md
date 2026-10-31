@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../../README.md) / [Part II. The Logic](../../../../README.md) / [Second Division. The Doctrine of Essence](../../../README.md) / [Chapter I. Essence as Ground of Existence](../../README.md) / [Section I. The Pure Principles or Categories of Reflection](../README.md) / [Sub-Section II. Difference](README.md)
-
-[上一篇：B. Likeness and Unlikeness](02-b-likeness-and-unlikeness.md) · [下一篇：Sub-Section III. The Ground](../03-sub-section-iii-the-ground.md)
-
 <!-- original-content:start -->
 ###### C. Positive and Negative
 or the relation of *contrariety*. Whereas in variety we had merely the relation of a thing to *any* other, and to any number of others, so that a pen, a camel, a circle, a hair-brush, and a tadpole, are all indifferently regarded as *various* from each other, in contrariety, on the other hand, a thing is regarded as having its own special other, which is its opposite. Difference was, in its first phase, *i.e.* variety, mere difference. Now in its final phase as contrariety, it is *specific* difference. It is the positive and negative. Light and darkness, North and South, cold and warm, are examples.
@@ -16,3 +12,6 @@ But to argue thus is simply to play Hegel’s game for him. This is precisely hi
 We began with variety, which is immediate difference. We end with contrariety in which mediation and interdependence are fully developed. Contrariety, therefore, is the final and perfected form of difference, and we pass now from the sphere of difference to that of ground.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

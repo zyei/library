@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part IV. The Philosophy of Spirit](../README.md) / [Second Division. Objective Spirit](README.md)
-
-[上一篇：Second Division. Objective Spirit](README.md) · [下一篇：Chapter I. Abstract Right](02-chapter-i-abstract-right/README.md)
-
 <!-- original-content:start -->
 #### Introduction
 
@@ -46,3 +42,6 @@ Hegel, like Kant, founds morality upon reason, upon the universal. But the unive
 Objective spirit develops itself through the three phases of (1) abstract right, (2) morality, (3) social ethics.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

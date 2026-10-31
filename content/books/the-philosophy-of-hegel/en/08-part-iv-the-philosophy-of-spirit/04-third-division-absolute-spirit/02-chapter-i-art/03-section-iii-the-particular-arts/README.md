@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Third Division. Absolute Spirit](../../README.md) / [Chapter I. Art](../README.md)
-
-[上一篇：Sub-Section III. The Romantic Type of Art](../02-section-ii-the-types-of-art/03-sub-section-iii-the-romantic-type-of-art.md) · [下一篇：Sub-Section I. The Symbolic Art of Architecture](01-sub-section-i-the-symbolic-art-of-architecture.md)
-
 <!-- original-content:start -->
 ##### Section III. The Particular Arts
 
@@ -15,8 +11,5 @@ For this reason, too, the advance of the particular arts coalesces with the adva
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. The Symbolic Art of Architecture](01-sub-section-i-the-symbolic-art-of-architecture.md) — §§ 681–684
-- [Sub-Section II. The Classical Art of Sculpture](02-sub-section-ii-the-classical-art-of-sculpture.md) — §§ 685–686
-- [Sub-Section III. The Romantic Arts of Painting, Music and Poetry](03-sub-section-iii-the-romantic-arts-of-painting-music-and-poetry/README.md) — §§ 687–712
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

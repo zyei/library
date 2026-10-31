@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter II. The Object; or, the Objective Notion](../README.md)
-
-[上一篇：Chapter II. The Object; or, the Objective Notion](../README.md) · [下一篇：Sub-Section I. Formal Mechanism](01-sub-section-i-formal-mechanism.md)
-
 <!-- original-content:start -->
 ##### Section I. Mechanism
 
@@ -17,12 +13,6 @@ Now the first phase of the object will be the object in its *immediacy*. And thi
 **371.** Mechanism has, of course, its rights as a category. It is chiefly suitable to describe the relations of inert masses of matter in the inorganic world, though even here it is only the most abstract relations of matter which obey the laws of mechanics. But in the organic world, and even in the realm of mind, mechanism plays a part, though it becomes an increasingly trivial part as we rise in the scale of being. Purely mechanical operations are, as Hegel notes, important to the development of memory. But the category of mechanism is a superficial one wholly inadequate for the thorough comprehension of the organic world. And many popular modes of thought are vitiated by the application of the category of mechanism where it is wholly unsuitable. Thus the statement that man consists of body and soul contemplates a purely mechanical relationship between the two. The same remark applies to the division of the soul into “faculties.”
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Sub-Section I. Formal Mechanism](01-sub-section-i-formal-mechanism.md) — § 372
-- [Sub-Section II. Mechanism with Affinity](02-sub-section-ii-mechanism-with-affinity.md) — § 373
-- [Sub-Section III. Absolute Mechanism](03-sub-section-iii-absolute-mechanism.md) — § 374
 
 <!-- local-footnotes:start -->
 [^ii-object-7]: See § 239 above.

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter III. Hegel](README.md)
-
-[上一篇：A. Explanation: Cause: Reason](01-a-explanation-cause-reason.md) · [下一篇：C. Reason as self-determined](03-c-reason-as-self-determined.md)
-
 <!-- original-content:start -->
 #### B. Reason as the Universal
 
@@ -29,3 +25,6 @@ we see that it is nothing but a process of universals. “Poppy” is a concept;
 then the symbols M, S, and P, still represent concepts, but far more abstract concepts than before. Thus even from this point of view reason is a process of universals. This statement is not dependent upon what is known in logic as the doctrine of conceptualism. It is not denied that we are arguing about real things, poppies, red things, etc. It is not affirmed that we are merely reasoning about ideas. The reasoning process applies to things. But the reasoning process *itself*, which thus applies to things, is a process of ideas or universals. That reason, as thus regarded, is not merely a collection of motionless universals, but is a *process*, a movement of universals, by means of which we pass from one universal to another,—this is a very pregnant hint as regards Hegel. But it is a hint which we must leave undeveloped at the moment. For the present the only point is that the first reason of the world consists of universals, or is the universal. This is still, of course, exceedingly vague. But this vague principle will specify and define itself as we proceed.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

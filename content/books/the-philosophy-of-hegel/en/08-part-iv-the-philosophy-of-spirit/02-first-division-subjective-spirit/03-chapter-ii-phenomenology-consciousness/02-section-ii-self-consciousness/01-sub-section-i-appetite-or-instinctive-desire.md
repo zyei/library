@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter II. Phenomenology—Consciousness](../README.md) / [Section II. Self-Consciousness](README.md)
-
-[上一篇：Section II. Self-Consciousness](README.md) · [下一篇：Sub-Section II. Self-Consciousness Recognitive](02-sub-section-ii-self-consciousness-recognitive.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. Appetite or Instinctive Desire
 
@@ -11,3 +7,6 @@
 Self-consciousness must, therefore, more fully develop itself; it must become *pure* self-consciousness. It can only do so by getting rid of its lower factor of mere consciousness proper, which is, so to speak, dragging it down. Now this aspect of it as consciousness proper, of which it has to rid itself, is due to the fact that its object is still an independent not-self. On the one hand the object is identical with the self which thinks it, but still, on the other hand, it retains its independence as an external object. Self-consciousness, therefore, can only overcome this inner contradiction, can only develop itself into full self-consciousness, by *abolishing this independent self-subsistence* of its object. The *impulse*, which is thus generated, to abolish the independence of the object, is **desire or appetite**. And it carries out its purpose by destroying and *consuming* the object. Thus, in the simplest form of appetite, that of *hunger*, the object, *i.e.* the food, in the first instance stands over against me as an independent object. By consuming it I destroy its independent existence in the world, I make it part of myself, and it ceases to confront me as a not-self. Though this is most obvious in the case of hunger, all other desire or appetite has, according to Hegel, the same essential inner nature. It consists in the impulse to abolish the independence of its object, to destroy its self-subsistence by making it a mere satellite of myself and so a part of me and my world. In its most simple form it takes the shape of actually destroying the object.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

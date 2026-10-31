@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part IV. The Philosophy of Spirit](../README.md) / [First Division. Subjective Spirit](README.md)
-
-[上一篇：First Division. Subjective Spirit](README.md) · [下一篇：Chapter I. Anthropology—The Soul](02-chapter-i-anthropology-the-soul/README.md)
-
 <!-- original-content:start -->
 #### Introduction
 

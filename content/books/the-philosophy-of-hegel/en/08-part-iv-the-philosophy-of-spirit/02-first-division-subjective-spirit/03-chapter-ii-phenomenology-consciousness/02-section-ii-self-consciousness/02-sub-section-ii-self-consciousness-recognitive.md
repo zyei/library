@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter II. Phenomenology—Consciousness](../README.md) / [Section II. Self-Consciousness](README.md)
-
-[上一篇：Sub-Section I. Appetite or Instinctive Desire](01-sub-section-i-appetite-or-instinctive-desire.md) · [下一篇：Sub-Section III. Universal Self-Consciousness](03-sub-section-iii-universal-self-consciousness.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. Self-Consciousness Recognitive
 

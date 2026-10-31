@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Second Division. Objective Spirit](../../README.md) / [Chapter III. Social Ethics](../README.md)
-
-[上一篇：Sub-Section III. Police and Corporation](../02-section-ii-civil-society/03-sub-section-iii-police-and-corporation.md) · [下一篇：Sub-Section I. Constitution, or Internal Polity](01-sub-section-i-constitution-or-internal-polity.md)
-
 <!-- original-content:start -->
 ##### Section III. The State
 
@@ -46,12 +42,6 @@ Thus all theories which regard the state as a mere combination of individuals fo
 **614.** The three phases of the state are (1) Its constitution, or internal polity, the internal relations of itself to its members, and of its members to one another; (2) international law,— the relation of the state to other states, whereby it passes into (3) universal history.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Sub-Section I. Constitution, or Internal Polity](01-sub-section-i-constitution-or-internal-polity.md) — §§ 615–625
-- [Sub-Section II. International Law](02-sub-section-ii-international-law.md) — §§ 626–632
-- [Sub-Section III. World-History](03-sub-section-iii-world-history.md) — § 633
 
 <!-- local-footnotes:start -->
 [^iv-social-7]: *Phil. of Right*, § 256.

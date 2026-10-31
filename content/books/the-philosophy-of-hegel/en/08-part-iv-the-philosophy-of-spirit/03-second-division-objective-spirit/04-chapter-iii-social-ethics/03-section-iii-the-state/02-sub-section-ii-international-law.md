@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Second Division. Objective Spirit](../../README.md) / [Chapter III. Social Ethics](../README.md) / [Section III. The State](README.md)
-
-[上一篇：Sub-Section I. Constitution, or Internal Polity](01-sub-section-i-constitution-or-internal-polity.md) · [下一篇：Sub-Section III. World-History](03-sub-section-iii-world-history.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. International Law
 
@@ -27,3 +23,6 @@
 **632.** Because the state, even while at war, recognizes its opponent as a sovereign state, *i.e.* as a single individual, it must make war against that individual as such, *i.e.* against the state, and not against private persons, their property, families, etc.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

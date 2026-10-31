@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [First Division. The Doctrine of Being](../README.md)
-
-[上一篇：C. Repulsion and Attraction](../02-chapter-i-quality/03-section-iii-being-for-self/03-c-repulsion-and-attraction.md) · [下一篇：Section I. Pure Quantity](01-section-i-pure-quantity/README.md)
-
 <!-- original-content:start -->
 #### Chapter II. Quantity
 
@@ -30,12 +26,6 @@ This is at once intelligible. A quantity is not an abstract many, or an abstract
 **215.** The categories of quantity fall into three spheres, pure quantity, quantum, and degree.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. Pure Quantity](01-section-i-pure-quantity/README.md) — §§ 216–220
-- [Section II. Quantum](02-section-ii-quantum/README.md) — §§ 221–223
-- [Section III. Degree](03-section-iii-degree/README.md) — §§ 224–232
 
 <!-- local-footnotes:start -->
 [^ii-quantity-1]: See, for example, Mackintosh, *Hegel and Hegelianism*, p. 154.

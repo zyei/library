@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [First Division. Subjective Spirit](../README.md) / [Chapter II. Phenomenology—Consciousness](README.md)
-
-[上一篇：Sub-Section III. Universal Self-Consciousness](02-section-ii-self-consciousness/03-sub-section-iii-universal-self-consciousness.md) · [下一篇：Chapter III. Psychology—Mind](../04-chapter-iii-psychology-mind/README.md)
-
 <!-- original-content:start -->
 ##### Section III. Reason
 
@@ -21,3 +17,6 @@ It will be observed that reason, as the third member of the triad,—consciousne
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter I. Anthropology—The Soul](../README.md) / [Section II. The Feeling Soul](README.md)
-
-[上一篇：Sub-Section II. Self-Feeling](02-sub-section-ii-self-feeling.md) · [下一篇：Section III. The Actual Soul](../03-section-iii-the-actual-soul.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. Habit
 
@@ -16,3 +12,6 @@ But it may be answered that class universality is simply an abstract idea, and t
 Now the essential point of the Hegelian deduction here is that the formal universality of the ego has to manifest itself in the particulars. It can only become manifest as a numerical universality,*i.e.* as a repetition of units of sensation, feeling, activity, etc. This is habit.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

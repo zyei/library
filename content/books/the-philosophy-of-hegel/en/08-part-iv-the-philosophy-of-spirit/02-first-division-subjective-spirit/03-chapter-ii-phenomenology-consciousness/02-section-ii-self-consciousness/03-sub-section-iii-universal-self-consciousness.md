@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter II. Phenomenology—Consciousness](../README.md) / [Section II. Self-Consciousness](README.md)
-
-[上一篇：Sub-Section II. Self-Consciousness Recognitive](02-sub-section-ii-self-consciousness-recognitive.md) · [下一篇：Section III. Reason](../03-section-iii-reason.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. Universal Self-Consciousness
 
@@ -15,3 +11,6 @@ Secondly, the slave through work and labour, attains to independence and self-co
 Thus the master finds that his own independence is dependent on the slave. This very fact proves the independence of the slave; and the master in being forced to recognize his independence recognizes him as another self-consciousness. For independence and self-consciousness are the same. The slave also now knows himself as a self-consciousness. Hence each now recognizes and accepts the other as a self-consciousness. The position to which mind has now attained is therefore this, that instead of the ego recognizing only itself as the sole self-conscious independent being in the universe, it now recognizes other egos as self-conscious beings. This mutual acceptance of all egos by each other is **universal self-consciousness**.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

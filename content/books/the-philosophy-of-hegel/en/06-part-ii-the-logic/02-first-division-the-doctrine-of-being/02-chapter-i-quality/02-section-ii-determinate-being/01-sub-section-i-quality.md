@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md) / [Section II. Determinate Being](README.md)
-
-[上一篇：Section II. Determinate Being](README.md) · [下一篇：Sub-Section II. Limit](02-sub-section-ii-limit/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. Quality.
 
@@ -22,3 +18,6 @@ Reality is not, of course, the same as pure being. It is *determinate* being. It
 **189.** The quality of a thing regarded in its positive aspect (reality) is the inherent character or being of the thing as it is in itself apart from all other things. So considered it is the sub-category of **being-in-itself**. The quality regarded in its negative aspect (negation) is the character of the thing as negating some other thing. It is then a being which stands in relation to (negates) other things. As such it is the sub-category of **being-for-other**.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

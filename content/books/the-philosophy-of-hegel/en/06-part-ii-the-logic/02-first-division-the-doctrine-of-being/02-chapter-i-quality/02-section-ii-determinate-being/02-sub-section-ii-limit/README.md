@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../../README.md) / [Part II. The Logic](../../../../README.md) / [First Division. The Doctrine of Being](../../../README.md) / [Chapter I. Quality](../../README.md) / [Section II. Determinate Being](../README.md)
-
-[上一篇：Sub-Section I. Quality.](../01-sub-section-i-quality.md) · [下一篇：A. The Finite](01-a-the-finite.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. Limit
 
@@ -15,8 +11,5 @@ The general sphere of categories which come under the title of limit falls into 
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [A. The Finite](01-a-the-finite.md) — § 192
-- [B. Alteration](02-b-alteration.md) — §§ 193–196
-- [C. The Spurious Infinite](03-c-the-spurious-infinite.md) — §§ 197–198
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

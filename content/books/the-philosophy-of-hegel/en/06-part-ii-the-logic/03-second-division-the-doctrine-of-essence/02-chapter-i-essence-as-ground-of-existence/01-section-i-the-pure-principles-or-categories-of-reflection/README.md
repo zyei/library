@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Second Division. The Doctrine of Essence](../../README.md) / [Chapter I. Essence as Ground of Existence](../README.md)
-
-[上一篇：Chapter I. Essence as Ground of Existence](../README.md) · [下一篇：Sub-Section I. Identity](01-sub-section-i-identity.md)
-
 <!-- original-content:start -->
 ##### Section I. The Pure Principles or Categories of Reflection
 
@@ -10,8 +6,5 @@
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. Identity](01-sub-section-i-identity.md) — §§ 253–254
-- [Sub-Section II. Difference](02-sub-section-ii-difference/README.md) — §§ 255–259
-- [Sub-Section III. The Ground](03-sub-section-iii-the-ground.md) — §§ 260–261
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

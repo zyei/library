@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Second Division. Objective Spirit](../../README.md) / [Chapter III. Social Ethics](../README.md) / [Section III. The State](README.md)
-
-[上一篇：Sub-Section II. International Law](02-sub-section-ii-international-law.md) · [下一篇：Third Division. Absolute Spirit](../../../04-third-division-absolute-spirit/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. World-History
 
@@ -31,3 +27,6 @@ This world-spirit is the final tribunal and judge of the nations. There is no in
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

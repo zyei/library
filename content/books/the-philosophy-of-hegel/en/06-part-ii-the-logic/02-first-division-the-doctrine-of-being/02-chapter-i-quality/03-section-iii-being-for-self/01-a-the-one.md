@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md) / [Section III. Being-for-self](README.md)
-
-[上一篇：Section III. Being-for-self](README.md) · [下一篇：B. The Many](02-b-the-many.md)
-
 <!-- original-content:start -->
 ###### A. The One
 
@@ -17,3 +13,6 @@ It is important to realize that this idea of reflection into self is necessary f
 **208.** From the one issues
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

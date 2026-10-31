@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Second Division. Objective Spirit](../README.md)
-
-[上一篇：Introduction](../01-introduction.md) · [下一篇：Section I. Property](01-section-i-property.md)
-
 <!-- original-content:start -->
 #### Chapter I. Abstract Right
 
@@ -19,12 +15,6 @@ Thus what constitutes a person and gives him rights is not mere consciousness, b
 **533.** The sphere of abstract right is the sphere of those rights and duties which accrue to human beings, considered abstractly, *i.e.* simply as persons, and not yet as citizens of states. Apart altogether from my rights as a citizen, I as a human being, as a person, have rights. It is these that are here considered. It may be objected that the institutions which Hegel deduces under this head, namely property, contract, and punishment of wrong, all imply a settled social state, and could not exist without such a state. This is true, but irrevelant[^iv-right-ed-1]. It is equally true that sensation cannot exist without thought. Yet sensation was deduced very early in the sphere of subjective spirit, and long before thought made its appearance. Hegel’s method is to deduce first the abstraction and afterwards the concrete state in which alone the earlier abstraction finds its true being. It may be true that property, contract, punishment, can only exist in a definite and intelligible way in an organized society. But this does not alter the fact that these rights are based, not upon the state, but upon the single person. The right to possess property is inherent in the person as such, and exists by virtue of his mere personality. The fact that he cannot in practice effectively exercise this right until the state is developed makes no difference to this truth.[^iv-right-3] Abstract right develops itself through three phases: (1) property, (2) contract, (3) wrong.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. Property](01-section-i-property.md) — §§ 534–539
-- [Section II. Contract](02-section-ii-contract.md) — §§ 540–545
-- [Section III. Wrong](03-section-iii-wrong.md) — §§ 546–554
 
 <!-- local-footnotes:start -->
 [^iv-right-1]: It might be said that the animal has the right to be kindly treated. It is doubtful, however, whether this can be regarded as a right in the animal, although it is no doubt the duty of man to treat animals well.

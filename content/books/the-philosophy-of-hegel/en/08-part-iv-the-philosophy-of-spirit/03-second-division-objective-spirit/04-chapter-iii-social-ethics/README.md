@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Second Division. Objective Spirit](../README.md)
-
-[上一篇：Section III. Goodness and Wickedness](../03-chapter-ii-morality/03-section-iii-goodness-and-wickedness.md) · [下一篇：Section I. The Family](01-section-i-the-family.md)
-
 <!-- original-content:start -->
 #### Chapter III. Social Ethics
 
@@ -28,12 +24,6 @@ Now, in the moral sphere, conscience is the side of subjectivity, the good is th
 Social ethics advance through three phases (1) the family, (2) civil society, (3) the state.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. The Family](01-section-i-the-family.md) — §§ 577–585
-- [Section II. Civil Society](02-section-ii-civil-society/README.md) — §§ 586–604
-- [Section III. The State](03-section-iii-the-state/README.md) — §§ 605–633
 
 <!-- local-footnotes:start -->
 [^iv-social-1]: In the *Phil. of Mind*, § 512, and in the *Phil. of Right*, § 141.

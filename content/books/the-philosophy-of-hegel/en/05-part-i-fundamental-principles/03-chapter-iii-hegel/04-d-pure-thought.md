@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter III. Hegel](README.md)
-
-[上一篇：C. Reason as self-determined](03-c-reason-as-self-determined.md) · [下一篇：E. Knowing and Being](05-e-knowing-and-being.md)
-
 <!-- original-content:start -->
 #### D. Pure Thought
 

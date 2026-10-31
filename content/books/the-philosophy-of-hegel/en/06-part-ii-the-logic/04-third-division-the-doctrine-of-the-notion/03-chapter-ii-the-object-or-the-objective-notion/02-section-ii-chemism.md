@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Third Division. The Doctrine of the Notion](../README.md) / [Chapter II. The Object; or, the Objective Notion](README.md)
-
-[上一篇：Sub-Section III. Absolute Mechanism](01-section-i-mechanism/03-sub-section-iii-absolute-mechanism.md) · [下一篇：Section III. Teleology](03-section-iii-teleology/README.md)
-
 <!-- original-content:start -->
 ##### Section II. Chemism
 

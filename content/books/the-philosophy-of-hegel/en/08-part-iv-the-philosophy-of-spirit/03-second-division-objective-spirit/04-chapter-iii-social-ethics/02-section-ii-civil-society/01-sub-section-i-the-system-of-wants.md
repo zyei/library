@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Second Division. Objective Spirit](../../README.md) / [Chapter III. Social Ethics](../README.md) / [Section II. Civil Society](README.md)
-
-[上一篇：Section II. Civil Society](README.md) · [下一篇：Sub-Section II. Administration of Justice](02-sub-section-ii-administration-of-justice.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. The System of Wants
 
@@ -30,3 +26,6 @@
 **599.** It is very important to note, however, that Hegel does not make birth, pedigree, etc., the essential considerations in deciding the question to what class a man is to belong. Capacity, birth, and other accidental circumstances, he says, play their part. But the final decision rests with the free choice of the individual, and his ability to perform the functions of the class to which he aspires. He censures Plato for making the separation of individuals into classes a function of the rulers, thus, as usual, denying the subjective rights of freedom to the individual. And he animadverts upon the caste system of India which makes birth the sole deciding factor in the matter.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

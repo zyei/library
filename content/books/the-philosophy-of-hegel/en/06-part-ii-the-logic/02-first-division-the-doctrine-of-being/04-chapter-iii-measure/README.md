@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [First Division. The Doctrine of Being](../README.md)
-
-[上一篇：C. The Quantitative Ratio](../03-chapter-ii-quantity/03-section-iii-degree/03-c-the-quantitative-ratio.md) · [下一篇：A. The Specific Quantum](01-a-the-specific-quantum.md)
-
 <!-- original-content:start -->
 #### Chapter III. Measure
 
@@ -35,12 +31,6 @@ Other examples of measure are the following. The qualitative character of the co
 **237.** The sphere of measure falls into three categories, viz. (1) the specific quantum, (2) the measureless, (3) the infinite of measure.[^ii-measure-3]
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [A. The Specific Quantum](01-a-the-specific-quantum.md) — §§ 238–240
-- [B. The Measureless](02-b-the-measureless.md)
-- [C. The Infinite of Measure](03-c-the-infinite-of-measure.md) — § 241
 
 <!-- local-footnotes:start -->
 [^ii-measure-1]: Wal., *Log.*, § 107.

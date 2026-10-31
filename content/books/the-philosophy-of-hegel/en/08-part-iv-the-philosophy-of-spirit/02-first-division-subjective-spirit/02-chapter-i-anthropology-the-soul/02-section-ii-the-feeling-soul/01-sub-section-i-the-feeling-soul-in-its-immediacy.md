@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter I. Anthropology—The Soul](../README.md) / [Section II. The Feeling Soul](README.md)
-
-[上一篇：Section II. The Feeling Soul](README.md) · [下一篇：Sub-Section II. Self-Feeling](02-sub-section-ii-self-feeling.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. The Feeling Soul in its Immediacy
 

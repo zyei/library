@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Second Division. The Doctrine of Essence](../../README.md) / [Chapter I. Essence as Ground of Existence](../README.md) / [Section III. The Thing](README.md)
-
-[上一篇：Sub-Section II. The Thing and Matters](02-sub-section-ii-the-thing-and-matters.md) · [下一篇：Chapter II. Appearance](../../03-chapter-ii-appearance/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. Matter and Form
 
@@ -26,3 +22,6 @@ Thereupon the thing becomes *form*. For form, as here understood, is the princip
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

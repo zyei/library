@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Third Division. Absolute Spirit](../../README.md) / [Chapter I. Art](../README.md) / [Section III. The Particular Arts](README.md)
-
-[上一篇：Section III. The Particular Arts](README.md) · [下一篇：Sub-Section II. The Classical Art of Sculpture](02-sub-section-ii-the-classical-art-of-sculpture.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. The Symbolic Art of Architecture
 
@@ -26,3 +22,6 @@ These temples are not, primarily, symbolical of anything. They are wholly determ
 **684.** (3) *Romantic Architecture*. The chief examples of this are found in the Gothic churches of modern Europe. Because we are still in the sphere of architecture, and because architecture is especially the symbolic art, for these reasons symbolism prevails here too. The cruciform shape, the spires, the general trend of the buildings upwards into vast and aspiring heights, — all is symbolical. Yet the spirit of this symbolism is throughout romantic. These forests of spires and points rising one above the other, the upward-pointed arches and windows, the vast height of the buildings, represent the upward aspirations of the soul which has withdrawn from the outward world into its own self-seclusion. The essential feature of romantic art is, as we have seen, precisely this withdrawal of the soul from the external and sensuous world into the subjectivity of its own inner soul-life. And this in general is what the Christian Church represents. The Greek temple with its walks and colonnades is open to the world. It invites ingress and egress. It is gay and pleasant. It is flat, low, and wide, not, like the Christian Church, narrow and high. This flatness and horizontal extension represents extension outwards into the external world. All these features are reversed in the Gothic Church. The pillars are not outside but inside. The whole is entirely enclosed, forming an abode of the soul shut off in self-seclusion from the outside world. The sun only enters in a glimmer through the stained-glass windows. Everyone comes and goes, prays upon his knees and moves away. All kinds of religious acts are going on at the same time. But all this variety of changing life cannot fill it, cannot disturb the vast peace of the huge empty spaces and shadowy vistas of the soaring vaults overhead. The absorption of all this life as in these infinite silent spaces, represents, in sensuous fashion, the infinity of the spirit and its aspirations. What is emphasized here, then, is the inner soul-life, cut off from the world, the subjectivity which is the essential principle of romantic art.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

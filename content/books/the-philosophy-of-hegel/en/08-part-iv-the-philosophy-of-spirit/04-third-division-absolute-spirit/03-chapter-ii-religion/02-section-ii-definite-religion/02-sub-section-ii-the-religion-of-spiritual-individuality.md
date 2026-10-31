@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Third Division. Absolute Spirit](../../README.md) / [Chapter II. Religion](../README.md) / [Section II. Definite Religion](README.md)
-
-[上一篇：§§ 737–740](01-sub-section-i-the-religion-of-nature/02-737-740.md) · [下一篇：Section III. The Absolute Religion: Christianity](../03-section-iii-the-absolute-religion-christianity.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. The Religion of Spiritual Individuality
 

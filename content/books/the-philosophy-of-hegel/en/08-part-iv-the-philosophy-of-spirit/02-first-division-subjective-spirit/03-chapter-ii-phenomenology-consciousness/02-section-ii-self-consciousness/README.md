@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter II. Phenomenology—Consciousness](../README.md)
-
-[上一篇：Sub-Section III. Intellect](../01-section-i-consciousness-proper/03-sub-section-iii-intellect.md) · [下一篇：Sub-Section I. Appetite or Instinctive Desire](01-sub-section-i-appetite-or-instinctive-desire.md)
-
 <!-- original-content:start -->
 ##### Section II. Self-Consciousness
 
@@ -23,8 +19,5 @@ The transition from consciousness proper to self-consciousness takes place as fo
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. Appetite or Instinctive Desire](01-sub-section-i-appetite-or-instinctive-desire.md) — § 484
-- [Sub-Section II. Self-Consciousness Recognitive](02-sub-section-ii-self-consciousness-recognitive.md) — §§ 485–489
-- [Sub-Section III. Universal Self-Consciousness](03-sub-section-iii-universal-self-consciousness.md) — § 490
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

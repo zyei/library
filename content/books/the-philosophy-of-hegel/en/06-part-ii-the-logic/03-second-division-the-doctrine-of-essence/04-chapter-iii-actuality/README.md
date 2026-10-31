@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Second Division. The Doctrine of Essence](../README.md)
-
-[上一篇：Sub-Section III. Inner and Outer](../03-chapter-ii-appearance/03-section-iii-relation-or-correlation/03-sub-section-iii-inner-and-outer.md) · [下一篇：Section I. The Relationship of Substantiality](01-section-i-the-relationship-of-substantiality.md)
-
 <!-- original-content:start -->
 #### Chapter III. Actuality
 
@@ -41,12 +37,6 @@ Rational necessity is that which has its ground in itself, which is its own reas
 **299.** This is no doubt obscure. But the general position of Hegel as regards actuality is quite clear. Only what is rational is actual. That is the essential point. This position follows from the fundamentals of idealism (296). But Hegel chooses to attempt the proof of it in another way, viz. by showing that the definition of actuality as the unity of inner and outer involves that actuality is the same thing as logical necessity, which is the same as rationality. Taking it for granted, at any rate, that the actual is the necessary and rational we may proceed with the development of this sphere of categories. Actuality develops itself in three phases (1) substance and accident, (2) cause and effect, (3) reciprocity (action and reaction).
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. The Relationship of Substantiality](01-section-i-the-relationship-of-substantiality.md) — §§ 300–302
-- [Section II. The Relationship of Causality](02-section-ii-the-relationship-of-causality.md) — § 303
-- [Section III. The Relationship of Reciprocity](03-section-iii-the-relationship-of-reciprocity.md) — §§ 304–306
 
 <!-- local-footnotes:start -->
 [^ii-actuality-1]: *Phil. of Right*, Preface, xxvii, and Wal., *Log.*, § 6.

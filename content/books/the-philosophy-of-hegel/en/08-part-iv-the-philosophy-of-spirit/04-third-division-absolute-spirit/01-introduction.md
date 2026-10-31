@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part IV. The Philosophy of Spirit](../README.md) / [Third Division. Absolute Spirit](README.md)
-
-[上一篇：Third Division. Absolute Spirit](README.md) · [下一篇：Chapter I. Art](02-chapter-i-art/README.md)
-
 <!-- original-content:start -->
 #### Introduction
 

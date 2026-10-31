@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md)
-
-[上一篇：Sub-Section III. The True Infinite](../02-section-ii-determinate-being/03-sub-section-iii-the-true-infinite.md) · [下一篇：A. The One](01-a-the-one.md)
-
 <!-- original-content:start -->
 ##### Section III. Being-for-self
 
@@ -23,12 +19,6 @@ This example is really identical with the last. The ego, considered at the ordin
 The first category is this sphere is[^ii-quality-editor-1]
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [A. The One](01-a-the-one.md) — §§ 206–208
-- [B. The Many](02-b-the-many.md) — § 209
-- [C. Repulsion and Attraction](03-c-repulsion-and-attraction.md)
 
 <!-- local-footnotes:start -->
 [^ii-quality-editor-1]: [Editorial note: Both scans print “The first category is this sphere is”; the wording is retained as printed.]

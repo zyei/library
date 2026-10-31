@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Second Division. The Doctrine of Essence](../../README.md) / [Chapter II. Appearance](../README.md)
-
-[上一篇：Section II. Content and Form](../02-section-ii-content-and-form.md) · [下一篇：Sub-Section I. The Whole and the Parts](01-sub-section-i-the-whole-and-the-parts.md)
-
 <!-- original-content:start -->
 ##### Section III. Relation or Correlation
 
@@ -12,8 +8,5 @@ This sphere is called by Hegel **relation** or **correlation**. It might reasona
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. The Whole and the Parts](01-sub-section-i-the-whole-and-the-parts.md) — §§ 279–280
-- [Sub-Section II. Force and Manifestation of Force](02-sub-section-ii-force-and-manifestation-of-force.md) — §§ 281–285
-- [Sub-Section III. Inner and Outer](03-sub-section-iii-inner-and-outer.md) — §§ 286–290
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

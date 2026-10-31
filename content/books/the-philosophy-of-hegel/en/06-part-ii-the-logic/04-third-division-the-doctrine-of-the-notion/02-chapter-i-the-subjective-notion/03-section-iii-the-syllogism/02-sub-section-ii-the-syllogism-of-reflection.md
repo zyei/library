@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter I. The Subjective Notion](../README.md) / [Section III. The Syllogism](README.md)
-
-[上一篇：Sub-Section I. The Qualitative Syllogism](01-sub-section-i-the-qualitative-syllogism.md) · [下一篇：Sub-Section III. The Syllogism of Necessity](03-sub-section-iii-the-syllogism-of-necessity.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. The Syllogism of Reflection
 

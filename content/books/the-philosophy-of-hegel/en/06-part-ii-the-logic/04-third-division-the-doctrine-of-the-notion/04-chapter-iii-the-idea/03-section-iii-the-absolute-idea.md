@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Third Division. The Doctrine of the Notion](../README.md) / [Chapter III. The Idea](README.md)
-
-[上一篇：Sub-Section II. Volition—The Good](02-section-ii-cognition/02-sub-section-ii-volition-the-good.md) · [下一篇：Part III. The Philosophy of Nature](../../../07-part-iii-the-philosophy-of-nature/README.md)
-
 <!-- original-content:start -->
 ##### Section III. The Absolute Idea
 

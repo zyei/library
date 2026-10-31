@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter III. The Idea](../README.md)
-
-[上一篇：Chapter III. The Idea](../README.md) · [下一篇：Sub-Section I. The Living Individual](01-sub-section-i-the-living-individual.md)
-
 <!-- original-content:start -->
 ##### Section I. Life
 
@@ -21,12 +17,6 @@ That life is the unity of subject and object will also be evident. For the livin
 The sub-divisions of life, which are confused and unsatisfactory,[^ii-idea-5] are (1) the living individual, (2) the life-process, (3) the kind.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Sub-Section I. The Living Individual](01-sub-section-i-the-living-individual.md) — § 392
-- [Sub-Section II. The Life-Process](02-sub-section-ii-the-life-process.md) — § 393
-- [Sub-Section III. The Kind](03-sub-section-iii-the-kind.md) — § 394
 
 <!-- local-footnotes:start -->
 [^ii-idea-5]: For which reason I have summarised them in the briefest manner possible, omitting the very doubtful reference to sensibility, irritability, reproduction, etc.

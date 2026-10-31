@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter III. Psychology—Mind](../README.md) / [Section I. Theoretical Mind](README.md)
-
-[上一篇：C. Memory.](02-sub-section-ii-representation/03-c-memory.md) · [下一篇：Section II. Practical Mind](../02-section-ii-practical-mind/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. Thinking
 

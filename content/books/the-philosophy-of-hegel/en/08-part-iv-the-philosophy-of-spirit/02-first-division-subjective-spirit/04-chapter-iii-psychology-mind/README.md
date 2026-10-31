@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [First Division. Subjective Spirit](../README.md)
-
-[上一篇：Section III. Reason](../03-chapter-ii-phenomenology-consciousness/03-section-iii-reason.md) · [下一篇：Section I. Theoretical Mind](01-section-i-theoretical-mind/README.md)
-
 <!-- original-content:start -->
 #### Chapter III. Psychology—Mind
 
@@ -22,8 +18,5 @@
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Section I. Theoretical Mind](01-section-i-theoretical-mind/README.md) — §§ 497–508
-- [Section II. Practical Mind](02-section-ii-practical-mind/README.md) — §§ 509–517
-- [Section III. Free Mind](03-section-iii-free-mind.md) — § 518
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

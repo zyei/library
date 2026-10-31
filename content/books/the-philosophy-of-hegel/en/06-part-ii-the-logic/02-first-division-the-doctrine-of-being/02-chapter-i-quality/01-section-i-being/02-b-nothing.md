@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md) / [Section I. Being](README.md)
-
-[上一篇：A. Being](01-a-being.md) · [下一篇：C. Becoming](03-c-becoming.md)
-
 <!-- original-content:start -->
 ###### B. Nothing
 
@@ -11,3 +7,6 @@
 This is also evident if we take being as the predicate of a proposition. Reality, we might say, is being. This is only a tautological way of saying, reality *is*. In that form we see that being is not a true predicate, but merely a copula. It does not define reality in any way, but leaves our knowledge of it completely empty. If we are told that reality is, we naturally ask, *what* is it? The predicate being provides no answer. Instead of a proposition in the form S is P, we have one in the form S is —, the predicate being represented by a blank which is equivalent to a cipher. This cipher, which is all being represents, is nothing. Being, then, is nothing. If there were any difference between them it must consist in the fact that being possesses some determination which nothing lacks. But being has no determinations whatever. Therefore there can be no difference. The thought of being and the thought of nothing are the same, and pass into each other.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

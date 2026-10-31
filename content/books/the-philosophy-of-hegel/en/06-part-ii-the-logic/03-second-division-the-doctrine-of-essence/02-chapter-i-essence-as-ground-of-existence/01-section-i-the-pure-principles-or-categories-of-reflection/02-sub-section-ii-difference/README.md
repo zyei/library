@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../../README.md) / [Part II. The Logic](../../../../README.md) / [Second Division. The Doctrine of Essence](../../../README.md) / [Chapter I. Essence as Ground of Existence](../../README.md) / [Section I. The Pure Principles or Categories of Reflection](../README.md)
-
-[上一篇：Sub-Section I. Identity](../01-sub-section-i-identity.md) · [下一篇：A. Variety](01-a-variety.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. Difference
 
@@ -13,8 +9,5 @@
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [A. Variety](01-a-variety.md)
-- [B. Likeness and Unlikeness](02-b-likeness-and-unlikeness.md) — §§ 257–258
-- [C. Positive and Negative](03-c-positive-and-negative.md) — § 259
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

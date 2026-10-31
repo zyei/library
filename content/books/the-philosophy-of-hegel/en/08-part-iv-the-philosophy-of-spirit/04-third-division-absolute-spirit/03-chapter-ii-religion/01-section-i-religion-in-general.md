@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Third Division. Absolute Spirit](../README.md) / [Chapter II. Religion](README.md)
-
-[上一篇：Chapter II. Religion](README.md) · [下一篇：Section II. Definite Religion](02-section-ii-definite-religion/README.md)
-
 <!-- original-content:start -->
 ##### Section I. Religion in General
 
@@ -53,3 +49,6 @@ It will be seen that this content of religion, the unity of God and man, is prec
 **719.** Hegel here enters a strong protest against the identification of his philosophy with pantheism. Pantheism asserts that every individual object, this stone, this tree, this animal, this man, is God. And its meaning is that these objects are already, as they stand in all their immediacy and particularity, identical with God. But the Hegelian position is the very opposite of this. This individual human mind, in its immediacy, its particularity, its finiteness, is not God. It is precisely because of its immediacy, particularity, and finiteness, that it feels and knows itself as separate from God, as alienated from Him. It is only by renouncing and giving up its particularity that it can enter into union with God. I, as this particular ego, with all my selfish impulses, my foolish whims and caprices, am essentially not the universal mind, but only a particular mind. Nevertheless the universal mind is in me, and is my essential core and substance. We have already seen, in the spheres of morality and the state, how the individual mind has to forego its personal ends, adopt universal ends, and thereby develop, the universal mind within itself. And the universal mind is none other than the mind of God, who is, therefore, my inner core and essence in so far as I can give up my particularity and rise to the height of the universal. It is not held to be either pantheism or blasphemy to say that God is in the hearts of good men; and this is the Hegelian position.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

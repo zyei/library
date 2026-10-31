@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Third Division. Absolute Spirit](../../README.md) / [Chapter I. Art](../README.md)
-
-[上一篇：Section I. Beauty in General](../01-section-i-beauty-in-general.md) · [下一篇：Sub-Section I. The Symbolic Type of Art](01-sub-section-i-the-symbolic-type-of-art.md)
-
 <!-- original-content:start -->
 ##### Section II. The Types of Art
 
@@ -28,8 +24,5 @@ Beauty is the vision of the Absolute shining through a sensuous medium. The Abso
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. The Symbolic Type of Art](01-sub-section-i-the-symbolic-type-of-art.md) — §§ 657–664
-- [Sub-Section II. The Classical Type of Art](02-sub-section-ii-the-classical-type-of-art.md) — §§ 665–669
-- [Sub-Section III. The Romantic Type of Art](03-sub-section-iii-the-romantic-type-of-art.md) — §§ 670–678
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Third Division. Absolute Spirit](../README.md) / [Chapter II. Religion](README.md)
-
-[上一篇：Sub-Section II. The Religion of Spiritual Individuality](02-section-ii-definite-religion/02-sub-section-ii-the-religion-of-spiritual-individuality.md) · [下一篇：Chapter III. Philosophy](../04-chapter-iii-philosophy.md)
-
 <!-- original-content:start -->
 ##### Section III. The Absolute Religion: Christianity
 
@@ -41,3 +37,6 @@ This estrangement necessitates reconciliation. Man must return to God. In terms 
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

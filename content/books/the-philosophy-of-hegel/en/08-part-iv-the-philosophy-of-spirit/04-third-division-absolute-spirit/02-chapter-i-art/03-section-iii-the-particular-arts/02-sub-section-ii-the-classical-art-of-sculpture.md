@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Third Division. Absolute Spirit](../../README.md) / [Chapter I. Art](../README.md) / [Section III. The Particular Arts](README.md)
-
-[上一篇：Sub-Section I. The Symbolic Art of Architecture](01-sub-section-i-the-symbolic-art-of-architecture.md) · [下一篇：Sub-Section III. The Romantic Arts of Painting, Music and Poetry](03-sub-section-iii-the-romantic-arts-of-painting-music-and-poetry/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. The Classical Art of Sculpture
 

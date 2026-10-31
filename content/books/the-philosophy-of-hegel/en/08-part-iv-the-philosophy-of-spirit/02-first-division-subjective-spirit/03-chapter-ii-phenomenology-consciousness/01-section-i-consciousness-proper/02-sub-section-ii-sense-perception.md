@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter II. Phenomenology—Consciousness](../README.md) / [Section I. Consciousness Proper](README.md)
-
-[上一篇：Sub-Section I. Sensuous Consciousness](01-sub-section-i-sensuous-consciousness.md) · [下一篇：Sub-Section III. Intellect](03-sub-section-iii-intellect.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. Sense-Perception
 

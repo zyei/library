@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Second Division. The Doctrine of Essence](../../README.md) / [Chapter I. Essence as Ground of Existence](../README.md)
-
-[上一篇：Section II. Existence](../02-section-ii-existence.md) · [下一篇：Sub-Section I. The Thing and Its Properties](01-sub-section-i-the-thing-and-its-properties.md)
-
 <!-- original-content:start -->
 ##### Section III. The Thing
 
@@ -13,12 +9,6 @@ Existence, therefore, contains both sides of the relation. The relation of self 
 Hence in the sphere of thing the first category is the thing and its properties.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Sub-Section I. The Thing and Its Properties](01-sub-section-i-the-thing-and-its-properties.md) — §§ 265–266
-- [Sub-Section II. The Thing and Matters](02-sub-section-ii-the-thing-and-matters.md) — §§ 267–268
-- [Sub-Section III. Matter and Form](03-sub-section-iii-matter-and-form.md) — §§ 269–270
 
 <!-- local-footnotes:start -->
 [^ii-ground-4]: Wal., *Log.*, § 123.

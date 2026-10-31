@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Second Division. The Doctrine of Essence](../README.md)
-
-[上一篇：Sub-Section III. Matter and Form](../02-chapter-i-essence-as-ground-of-existence/03-section-iii-the-thing/03-sub-section-iii-matter-and-form.md) · [下一篇：Section I. The World of Appearance](01-section-i-the-world-of-appearance.md)
-
 <!-- original-content:start -->
 #### Chapter II. Appearance
 
@@ -22,8 +18,5 @@ This is a deeper thought than the common antithesis of appearance and reality, a
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Section I. The World of Appearance](01-section-i-the-world-of-appearance.md) — §§ 274–275
-- [Section II. Content and Form](02-section-ii-content-and-form.md) — §§ 276–277
-- [Section III. Relation or Correlation](03-section-iii-relation-or-correlation/README.md) — §§ 278–290
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

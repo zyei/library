@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Third Division. Absolute Spirit](../../README.md) / [Chapter I. Art](../README.md) / [Section II. The Types of Art](README.md)
-
-[上一篇：Sub-Section II. The Classical Type of Art](02-sub-section-ii-the-classical-type-of-art.md) · [下一篇：Section III. The Particular Arts](../03-section-iii-the-particular-arts/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. The Romantic Type of Art
 
@@ -37,3 +33,6 @@ This conflict and triumph of the spirit are envisaged especially in Christian co
 **678.** Romantic art has the germ of its dissolution within itself. Art is, according to its very notion, the union of spiritual content and outward form. Romantic art has, to some extent, already ceased to be art by virtue of the fact that it breaks up the harmonious accord of the two sides which was present in classical art. Romantic art implies that the two sides are, in reality, incompatible, since spirit now finds that no sensuous embodiment is sufficient for it. The logical development of this principle can only result in the two sides falling asunder altogether, and when that happens we have the complete dissolution of art. Spirit finds then that art is not its true and perfect medium. A new sphere is required for the self-realization of spirit, and this new sphere is religion.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

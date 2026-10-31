@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Third Division. The Doctrine of the Notion](../README.md)
-
-[上一篇：Sub-Section III. The Realized End](../03-chapter-ii-the-object-or-the-objective-notion/03-section-iii-teleology/03-sub-section-iii-the-realized-end.md) · [下一篇：Section I. Life](01-section-i-life/README.md)
-
 <!-- original-content:start -->
 #### Chapter III. The Idea
 
@@ -33,12 +29,6 @@ Unreflective common sense supposes that subject and object, thought and being, a
 **388.** The Idea has three stages, (1) life, (2) cognition, (3) the Absolute Idea.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. Life](01-section-i-life/README.md) — §§ 389–394
-- [Section II. Cognition](02-section-ii-cognition/README.md) — §§ 395–403
-- [Section III. The Absolute Idea](03-section-iii-the-absolute-idea.md) — §§ 404–408
 
 <!-- local-footnotes:start -->
 [^ii-idea-1]: Wal., *Log.*, § 215.

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter III. Hegel](README.md)
-
-[上一篇：G. Which is the first Category?](07-g-which-is-the-first-category.md) · [下一篇：I. The Dialectic Method (continued).](09-i-the-dialectic-method-continued/README.md)
-
 <!-- original-content:start -->
 #### H. The Dialectic Method.
 

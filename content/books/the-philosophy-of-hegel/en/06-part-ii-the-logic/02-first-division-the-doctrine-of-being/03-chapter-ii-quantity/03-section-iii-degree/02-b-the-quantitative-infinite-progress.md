@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter II. Quantity](../README.md) / [Section III. Degree](README.md)
-
-[上一篇：A. Degree](01-a-degree.md) · [下一篇：C. The Quantitative Ratio](03-c-the-quantitative-ratio.md)
-
 <!-- original-content:start -->
 ###### B. The Quantitative Infinite Progress
 
@@ -17,3 +13,6 @@ Thus the quantitative infinite progress is not a true but a spurious infinite. I
 **231.** This infinite is spurious, but it is not the same spurious infinite as we had before us in the sphere of quality. The course of the Hegelian Logic is throughout a progress, and there can never be a mere falling back to an earlier category. The former infinite was qualitative. This is quantitative. The former meant that the *quality* of the something was determined by something else and that by something else, so that the qualitative determination of the first something was never complete. This means that the quantity, as independent of quality, infinitely extends itself.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../../README.md) / [First Division. Subjective Spirit](../../../README.md) / [Chapter III. Psychology—Mind](../../README.md) / [Section I. Theoretical Mind](../README.md) / [Sub-Section II. Representation](README.md)
-
-[上一篇：Sub-Section II. Representation](README.md) · [下一篇：B. Imagination.](02-b-imagination.md)
-
 <!-- original-content:start -->
 ###### A. Recollection.
 
@@ -14,3 +10,6 @@
 The image, being a picture of the thing as removed from its relations and connections with other particular things, loses its particularity, and takes on a universal character. It becomes a generalized image stored up in the sub-conscious. When we receive a new impression it is subsumed under the appropriate generalized image, and this act constitutes remembrance (or perhaps we might simply call it *recognition*).
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

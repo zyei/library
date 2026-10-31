@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Second Division. The Doctrine of Essence](../../README.md) / [Chapter I. Essence as Ground of Existence](../README.md) / [Section III. The Thing](README.md)
-
-[上一篇：Sub-Section I. The Thing and Its Properties](01-sub-section-i-the-thing-and-its-properties.md) · [下一篇：Sub-Section III. Matter and Form](03-sub-section-iii-matter-and-form.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. The Thing and Matters
 

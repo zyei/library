@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter II. Quantity](../README.md) / [Section II. Quantum](README.md)
-
-[上一篇：Section II. Quantum](README.md) · [下一篇：B. Sum and Unity](02-b-sum-and-unity.md)
-
 <!-- original-content:start -->
 ###### A. Quantum
 
@@ -11,3 +7,6 @@
 The factors of discretion and continuity become, in the sphere of quantum,
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Second Division. Objective Spirit](../../README.md) / [Chapter III. Social Ethics](../README.md) / [Section III. The State](README.md)
-
-[上一篇：Section III. The State](README.md) · [下一篇：Sub-Section II. International Law](02-sub-section-ii-international-law.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. Constitution, or Internal Polity
 

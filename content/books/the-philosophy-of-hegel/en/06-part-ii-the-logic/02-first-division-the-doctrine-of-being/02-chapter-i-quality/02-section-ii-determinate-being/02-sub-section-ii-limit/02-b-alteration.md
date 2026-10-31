@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../../README.md) / [Part II. The Logic](../../../../README.md) / [First Division. The Doctrine of Being](../../../README.md) / [Chapter I. Quality](../../README.md) / [Section II. Determinate Being](../README.md) / [Sub-Section II. Limit](README.md)
-
-[上一篇：A. The Finite](01-a-the-finite.md) · [下一篇：C. The Spurious Infinite](03-c-the-spurious-infinite.md)
-
 <!-- original-content:start -->
 ###### B. Alteration
 
@@ -20,3 +16,6 @@ But the other is also a something. There are two somethings. And each something 
 **196.** Alteration is not the same as becoming. It is a more concrete, fuller category. Becoming is the passage of being and nothing into each other, as when a thing begins to exist or ceases to exist. Alteration is the passage of one something into another something (not into nothing) as when a leaf changes colour or a man grows old. Becoming is creation or annihilation. Alteration is change of quality.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md)
-
-[上一篇：Further Explanations](../01-section-i-being/04-further-explanations.md) · [下一篇：Sub-Section I. Quality.](01-sub-section-i-quality.md)
-
 <!-- original-content:start -->
 ##### Section II. Determinate Being
 
@@ -15,12 +11,6 @@ The original empty category of being had for its very nature the absence of all 
 To me it seems that this deduction is invalid. It appears to derive its force from a play upon the word definite. To say that a thing now *definitely* is, means that it has ceased to chop and change between “is” and “is not.” Quite another meaning of the word definite creeps in when we use it as a synonym for determinate. And this is probably why Hegel at this point has recourse to metaphor—“the deus machina of an argument”—to enforce the shaky deduction. “Becoming” he says, “stands before us in utter restlessness. . . . Becoming is, as it were, a fire, which dies out in itself, when it consumes its material. The result of this process, however, is not an empty nothing, but . . . determinate being; the primary import of which evidently is that it has *become*.”[^ii-quality-3] Sensuous metaphors of this sort should, like the myths of Plato, make one suspicious that they cover up a break in the thought.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Sub-Section I. Quality.](01-sub-section-i-quality.md) — §§ 186–189
-- [Sub-Section II. Limit](02-sub-section-ii-limit/README.md) — §§ 190–198
-- [Sub-Section III. The True Infinite](03-sub-section-iii-the-true-infinite.md) — §§ 199–202
 
 <!-- local-footnotes:start -->
 [^ii-quality-2]: That the element of change disappears is essential to the deduction. But it will be noticed that it infringes the Hegelian principle (144) that as the dialectic proceeds nothing is ever lost.

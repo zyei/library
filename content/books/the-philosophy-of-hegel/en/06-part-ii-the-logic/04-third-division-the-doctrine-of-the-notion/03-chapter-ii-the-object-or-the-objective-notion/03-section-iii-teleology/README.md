@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter II. The Object; or, the Objective Notion](../README.md)
-
-[上一篇：Section II. Chemism](../02-section-ii-chemism.md) · [下一篇：Sub-Section I. The Subjective End](01-sub-section-i-the-subjective-end.md)
-
 <!-- original-content:start -->
 ##### Section III. Teleology
 
@@ -31,8 +27,5 @@ But this complete view of teleology does not emerge till we reach the last categ
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. The Subjective End](01-sub-section-i-the-subjective-end.md) — § 378
-- [Sub-Section II. The Means](02-sub-section-ii-the-means.md) — § 379
-- [Sub-Section III. The Realized End](03-sub-section-iii-the-realized-end.md) — §§ 380–381
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

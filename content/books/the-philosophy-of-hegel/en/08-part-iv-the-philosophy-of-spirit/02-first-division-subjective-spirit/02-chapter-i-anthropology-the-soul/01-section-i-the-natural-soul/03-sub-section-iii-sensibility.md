@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter I. Anthropology—The Soul](../README.md) / [Section I. The Natural Soul](README.md)
-
-[上一篇：Sub-Section II. Physical Alterations](02-sub-section-ii-physical-alterations.md) · [下一篇：Section II. The Feeling Soul](../02-section-ii-the-feeling-soul/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. Sensibility
 
@@ -13,3 +9,6 @@ But it must be carefully noted that although the sensations have thus a kind of 
 It is precisely this which makes the distinction between the sensibility deduced here and the sensuous consciousness, or sense-perception, which will be deduced in the next chapter under the head of phenomenology. Sensuous consciousness means for Hegel the consciousness which the senses give us of external objects. And this does not exist as yet.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

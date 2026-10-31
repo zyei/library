@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Second Division. Objective Spirit](../../README.md) / [Chapter III. Social Ethics](../README.md)
-
-[上一篇：Section I. The Family](../01-section-i-the-family.md) · [下一篇：Sub-Section I. The System of Wants](01-sub-section-i-the-system-of-wants.md)
-
 <!-- original-content:start -->
 ##### Section II. Civil Society
 
@@ -37,8 +33,5 @@
 
 <!-- original-content:end -->
 
-## 本节目录
-
-- [Sub-Section I. The System of Wants](01-sub-section-i-the-system-of-wants.md) — §§ 596–599
-- [Sub-Section II. Administration of Justice](02-sub-section-ii-administration-of-justice.md) — §§ 600–603
-- [Sub-Section III. Police and Corporation](03-sub-section-iii-police-and-corporation.md) — § 604
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

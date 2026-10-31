@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part II. The Logic](../README.md) / [Third Division. The Doctrine of the Notion](README.md)
-
-[上一篇：Third Division. The Doctrine of the Notion](README.md) · [下一篇：Chapter I. The Subjective Notion](02-chapter-i-the-subjective-notion/README.md)
-
 <!-- original-content:start -->
 #### Introduction
 

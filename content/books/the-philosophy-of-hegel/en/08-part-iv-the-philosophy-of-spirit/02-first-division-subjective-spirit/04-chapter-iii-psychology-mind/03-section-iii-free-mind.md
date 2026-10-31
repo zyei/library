@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [First Division. Subjective Spirit](../README.md) / [Chapter III. Psychology—Mind](README.md)
-
-[上一篇：Sub-Section III. Happiness](02-section-ii-practical-mind/03-sub-section-iii-happiness.md) · [下一篇：Second Division. Objective Spirit](../../03-second-division-objective-spirit/README.md)
-
 <!-- original-content:start -->
 ##### Section III. Free Mind
 
@@ -21,3 +17,6 @@ This lack of satisfaction the will can only remedy by taking as its object a gen
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

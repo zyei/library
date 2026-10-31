@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter II. Quantity](../README.md) / [Section III. Degree](README.md)
-
-[上一篇：B. The Quantitative Infinite Progress](02-b-the-quantitative-infinite-progress.md) · [下一篇：Chapter III. Measure](../../04-chapter-iii-measure/README.md)
-
 <!-- original-content:start -->
 ###### C. The Quantitative Ratio
 
@@ -11,3 +7,6 @@
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

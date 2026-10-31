@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter III. Hegel](README.md)
-
-[上一篇：§§ 144–153](09-i-the-dialectic-method-continued/02-144-153.md) · [下一篇：Part II. The Logic](../../06-part-ii-the-logic/README.md)
-
 <!-- original-content:start -->
 #### J. Divisions of the System.
 

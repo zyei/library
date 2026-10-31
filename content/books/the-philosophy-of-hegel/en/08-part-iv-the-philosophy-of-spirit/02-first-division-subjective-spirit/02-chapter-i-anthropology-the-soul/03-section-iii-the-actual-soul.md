@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [First Division. Subjective Spirit](../README.md) / [Chapter I. Anthropology—The Soul](README.md)
-
-[上一篇：Sub-Section III. Habit](02-section-ii-the-feeling-soul/03-sub-section-iii-habit.md) · [下一篇：Chapter II. Phenomenology—Consciousness](../03-chapter-ii-phenomenology-consciousness/README.md)
-
 <!-- original-content:start -->
 ##### Section III. The Actual Soul
 
@@ -24,3 +20,6 @@ Formerly the soul distinguished itself from its content. Now it is seen that wit
 
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

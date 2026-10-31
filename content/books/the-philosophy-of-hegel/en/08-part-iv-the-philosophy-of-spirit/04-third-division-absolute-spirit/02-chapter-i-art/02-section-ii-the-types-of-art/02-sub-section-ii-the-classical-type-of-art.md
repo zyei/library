@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [Third Division. Absolute Spirit](../../README.md) / [Chapter I. Art](../README.md) / [Section II. The Types of Art](README.md)
-
-[上一篇：Sub-Section I. The Symbolic Type of Art](01-sub-section-i-the-symbolic-type-of-art.md) · [下一篇：Sub-Section III. The Romantic Type of Art](03-sub-section-iii-the-romantic-type-of-art.md)
-
 <!-- original-content:start -->
 ###### Sub-Section II. The Classical Type of Art
 
@@ -29,3 +25,6 @@ Because the *spiritual content* is no longer a formless abstraction, but a forme
 **669.** The dissolution of the classical type takes place through the gradual realization of the fact that the conception of the divine which it embodies is defective. The divine ought to be free and infinite spirit. But the Greek gods are neither free nor infinite. As a plurality they are limited by each other. They are not the supreme masters of the world, nor even of their own destinies. Above them stands an inscrutable and mysterious Fate. They are, after all, merely finite beings, not free, but subject, as men are, to the necessary course of events.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

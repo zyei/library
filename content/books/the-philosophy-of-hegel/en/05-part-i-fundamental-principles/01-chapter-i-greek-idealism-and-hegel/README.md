@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md)
-
-[上一篇：Part I. Fundamental Principles](../README.md) · [下一篇：A. Eleaticism and Hegel](01-a-eleaticism-and-hegel.md)
-
 <!-- original-content:start -->
 ### Chapter I. Greek Idealism and Hegel
 
@@ -15,13 +11,6 @@
 
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [A. Eleaticism and Hegel](01-a-eleaticism-and-hegel.md) — § 3
-- [B. Plato and Hegel](02-b-plato-and-hegel/README.md) — §§ 4–19
-- [C. Aristotle and Hegel](03-c-aristotle-and-hegel/README.md) — §§ 20–38
-- [D. Results](04-d-results.md) — §§ 39–40
 
 <!-- local-footnotes:start -->
 [^i-i-opening-1]: *Phil. of Mind*, p. 9.

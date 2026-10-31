@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter III. Hegel](README.md)
-
-[上一篇：D. Pure Thought](04-d-pure-thought.md) · [下一篇：F. Monism and the Deduction of the Categories](06-f-monism-and-the-deduction-of-the-categories.md)
-
 <!-- original-content:start -->
 #### E. Knowing and Being
 

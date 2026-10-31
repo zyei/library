@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part II. The Logic](../../README.md) / [Third Division. The Doctrine of the Notion](../README.md)
-
-[上一篇：Sub-Section III. The Syllogism of Necessity](../02-chapter-i-the-subjective-notion/03-section-iii-the-syllogism/03-sub-section-iii-the-syllogism-of-necessity.md) · [下一篇：Section I. Mechanism](01-section-i-mechanism/README.md)
-
 <!-- original-content:start -->
 #### Chapter II. The Object; or, the Objective Notion
 
@@ -37,12 +33,6 @@ The difference, we may answer, is that we have now, in the Notion in general, re
 **368.** As it first comes before us the object is abstract object, divested of subjectivity, the mere empty immediacy of the not-self. The Idea, as the synthesis of the triad, is the unity of subject and object. The process of the object within itself will therefore be a graduated return to subjectivity. In accordance with the universal principles of the Hegelian method the subject goes out of itself into its opposite, the object, and then returns into itself in the synthesis. This graduated return of the object into subjectivity exhibits three stages (1) mechanism, (2) chemism, (3) teleology. In the last we are clearly returning to the view of the object as governed by thought, by purposes, by subjectivity, and this forms the transition to the Idea.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Section I. Mechanism](01-section-i-mechanism/README.md) — §§ 369–374
-- [Section II. Chemism](02-section-ii-chemism.md) — § 375
-- [Section III. Teleology](03-section-iii-teleology/README.md) — §§ 376–381
 
 <!-- local-footnotes:start -->
 [^ii-object-1]: See § 239 above.

@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter I. The Subjective Notion](../README.md) / [Section II. The Judgment](README.md)
-
-[上一篇：Sub-Section II. The Judgment of Reflection](02-sub-section-ii-the-judgment-of-reflection.md) · [下一篇：Sub-Section IV. The Judgment of the Notion](04-sub-section-iv-the-judgment-of-the-notion.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. The Judgment of Necessity
 

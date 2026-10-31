@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md) / [Section I. Being](README.md)
-
-[上一篇：B. Nothing](02-b-nothing.md) · [下一篇：Further Explanations](04-further-explanations.md)
-
 <!-- original-content:start -->
 ###### C. Becoming
 
@@ -12,3 +8,6 @@
 **180.** Becoming is the concrete unity of being and nothing. It is a unity because it involves their identity. The distinction between them has vanished in the identity. They have collapsed to unity. But the unity is *concrete* because it still contains the difference preserved within it. It is not a mere abstract unity like the ordinary “concept,” which includes what is common to the things of a class, but excludes their differences. Becoming includes the differences as well as the identity. Being and nothing are identical, and this gives us the category of becoming. But we must not deny their difference merely because of their identity. They are at once absolutely identical and absolutely distinct. Becoming involves both. The “passage” is only another word for the identity. But were there no difference there could be no passage, no becoming. If A is to become, it must become something different from itself. A cannot become A, for there is no becoming, no change here. It must become B.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

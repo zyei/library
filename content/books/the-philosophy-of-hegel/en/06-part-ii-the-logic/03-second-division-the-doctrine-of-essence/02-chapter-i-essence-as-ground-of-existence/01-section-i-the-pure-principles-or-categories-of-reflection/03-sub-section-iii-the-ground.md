@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Second Division. The Doctrine of Essence](../../README.md) / [Chapter I. Essence as Ground of Existence](../README.md) / [Section I. The Pure Principles or Categories of Reflection](README.md)
-
-[上一篇：C. Positive and Negative](02-sub-section-ii-difference/03-c-positive-and-negative.md) · [下一篇：Section II. Existence](../02-section-ii-existence.md)
-
 <!-- original-content:start -->
 ###### Sub-Section III. The Ground
 
@@ -16,3 +12,6 @@ Hence the positive is the negative, and the negative is the positive. Each is th
 **261.** Now, in the course of the dialectic, identity became likeness, and difference became unlikeness. Likeness, in its turn, became the positive, and unlikeness became the negative. Hence the positive is identity, and the negative is difference. Identity is relation of self to self (253), which thus *affirms* itself and is *positive*. Difference is the distinction of self from self which subsists within this self-to-self relation (255), and it is thus the negating of itself by itself, and so is *negative*. Therefore the ground, which is the unity into which the positive and negative collapse, is at the same time the unity of identity and difference. Thus it justifies its position of arising at this point as the synthesis of the triad, identity, difference, ground.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

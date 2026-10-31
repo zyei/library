@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part IV. The Philosophy of Spirit](../README.md) / [Third Division. Absolute Spirit](README.md)
-
-[上一篇：Section III. The Absolute Religion: Christianity](03-chapter-ii-religion/03-section-iii-the-absolute-religion-christianity.md) · [下一篇：Index](../../09-index/README.md)
-
 <!-- original-content:start -->
 #### Chapter III. Philosophy
 

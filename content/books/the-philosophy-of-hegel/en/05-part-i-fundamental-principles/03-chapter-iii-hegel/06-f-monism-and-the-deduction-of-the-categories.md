@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter III. Hegel](README.md)
-
-[上一篇：E. Knowing and Being](05-e-knowing-and-being.md) · [下一篇：G. Which is the first Category?](07-g-which-is-the-first-category.md)
-
 <!-- original-content:start -->
 #### F. Monism and the Deduction of the Categories
 
@@ -65,3 +61,6 @@ Such dogmatism was quite sufficient for Kant because he only aimed at analyzing 
 Plato’s Ideas, in fact, are *abstract* universals, and it is for this reason that no deduction of them was possible for him. An abstract universal is a genus which does not contain its species within itself. A wholly new conception of the nature of universals has to be evolved if deduction is to be possible, a conception according to which the universal, the genus, contains its differentiae and its species within itself, so that they can be extricated from it by a logical deduction. Such universals are called by Hegel *concrete* universals, and the discovery of their nature was the great advance which Hegel claimed to have made upon previous philosophers. We are not yet in a position to expound this discovery. And all that we have at present to note is that Plato’s universals were abstract, so that the lower Ideas could not be deduced from the higher.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

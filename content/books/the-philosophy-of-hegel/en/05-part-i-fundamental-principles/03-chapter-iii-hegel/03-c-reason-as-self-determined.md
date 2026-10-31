@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../README.md) / [Part I. Fundamental Principles](../README.md) / [Chapter III. Hegel](README.md)
-
-[上一篇：B. Reason as the Universal](02-b-reason-as-the-universal.md) · [下一篇：D. Pure Thought](04-d-pure-thought.md)
-
 <!-- original-content:start -->
 #### C. Reason as self-determined
 

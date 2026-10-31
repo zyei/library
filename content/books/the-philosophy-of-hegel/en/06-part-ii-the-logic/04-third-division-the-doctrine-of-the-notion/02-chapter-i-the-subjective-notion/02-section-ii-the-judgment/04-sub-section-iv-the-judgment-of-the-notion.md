@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter I. The Subjective Notion](../README.md) / [Section II. The Judgment](README.md)
-
-[上一篇：Sub-Section III. The Judgment of Necessity](03-sub-section-iii-the-judgment-of-necessity.md) · [下一篇：Section III. The Syllogism](../03-section-iii-the-syllogism/README.md)
-
 <!-- original-content:start -->
 ###### Sub-Section IV. The Judgment of the Notion
 
@@ -30,3 +26,6 @@ The **assertoric judgment** simply asserts conformity or nonconformity with the 
 This judgment asserts that the singular (this picture) is identical with the universal (beautiful) through and by means of the particular (being thus and thus painted). It contains, therefore, the three factors of the Notion, distinct and yet merged in absolute identity. Hence it is the perfect judgment, the truth of judgment in general.
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

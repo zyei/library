@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part IV. The Philosophy of Spirit](../../../README.md) / [First Division. Subjective Spirit](../../README.md) / [Chapter I. Anthropology—The Soul](../README.md)
-
-[上一篇：Chapter I. Anthropology—The Soul](../README.md) · [下一篇：Sub-Section I. Physical Qualities](01-sub-section-i-physical-qualities.md)
-
 <!-- original-content:start -->
 ##### Section I. The Natural Soul
 
@@ -11,12 +7,6 @@
 Here at the beginning of spirit we stand on the topmost rung of the ladder of nature. And we may ask ourselves how far above nature the natural soul rises. The answer to this question is given in what has just been said. Because the natural soul is this mere blank of spiritual *being*, completely lacking in any definite spiritual determinations, the measure of its advance upon nature may be said to be so far nil. It is still almost completely entangled in nature, and in bondage to it. It is for this reason that it is called the *natural* soul.
 
 <!-- original-content:end -->
-
-## 本节目录
-
-- [Sub-Section I. Physical Qualities](01-sub-section-i-physical-qualities.md) — §§ 451–455
-- [Sub-Section II. Physical Alterations](02-sub-section-ii-physical-alterations.md) — §§ 456–457
-- [Sub-Section III. Sensibility](03-sub-section-iii-sensibility.md) — § 458
 
 <!-- local-footnotes:start -->
 [^iv-anthro-1]: See § 239 above.

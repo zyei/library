@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter I. Quality](../README.md) / [Section I. Being](README.md)
-
-[上一篇：C. Becoming](03-c-becoming.md) · [下一篇：Section II. Determinate Being](../02-section-ii-determinate-being/README.md)
-
 <!-- original-content:start -->
 ###### Further Explanations
 

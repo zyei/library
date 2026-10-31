@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Second Division. Objective Spirit](../README.md) / [Chapter III. Social Ethics](README.md)
-
-[上一篇：Chapter III. Social Ethics](README.md) · [下一篇：Section II. Civil Society](02-section-ii-civil-society/README.md)
-
 <!-- original-content:start -->
 ##### Section I. The Family
 

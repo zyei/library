@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [First Division. The Doctrine of Being](../../README.md) / [Chapter II. Quantity](../README.md) / [Section I. Pure Quantity](README.md)
-
-[上一篇：B. Continuous and Discrete Magnitude](02-b-continuous-and-discrete-magnitude.md) · [下一篇：Section II. Quantum](../02-section-ii-quantum/README.md)
-
 <!-- original-content:start -->
 ###### C. Limitation of Quantity
 

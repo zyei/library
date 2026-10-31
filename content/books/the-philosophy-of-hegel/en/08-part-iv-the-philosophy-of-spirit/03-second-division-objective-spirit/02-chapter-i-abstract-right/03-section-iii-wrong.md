@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../README.md) / [Part IV. The Philosophy of Spirit](../../README.md) / [Second Division. Objective Spirit](../README.md) / [Chapter I. Abstract Right](README.md)
-
-[上一篇：Section II. Contract](02-section-ii-contract.md) · [下一篇：Chapter II. Morality](../03-chapter-ii-morality/README.md)
-
 <!-- original-content:start -->
 ##### Section III. Wrong
 

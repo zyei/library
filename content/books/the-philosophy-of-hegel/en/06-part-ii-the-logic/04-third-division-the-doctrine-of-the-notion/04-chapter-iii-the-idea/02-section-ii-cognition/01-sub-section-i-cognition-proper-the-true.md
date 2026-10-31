@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../README.md) / [Part II. The Logic](../../../README.md) / [Third Division. The Doctrine of the Notion](../../README.md) / [Chapter III. The Idea](../README.md) / [Section II. Cognition](README.md)
-
-[上一篇：Section II. Cognition](README.md) · [下一篇：Sub-Section II. Volition—The Good](02-sub-section-ii-volition-the-good.md)
-
 <!-- original-content:start -->
 ###### Sub-Section I. Cognition Proper—The True
 

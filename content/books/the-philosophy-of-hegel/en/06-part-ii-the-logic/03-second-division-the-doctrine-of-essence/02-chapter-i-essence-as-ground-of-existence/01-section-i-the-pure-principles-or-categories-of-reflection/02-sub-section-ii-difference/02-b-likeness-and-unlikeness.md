@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](../../../../../README.md) / [Part II. The Logic](../../../../README.md) / [Second Division. The Doctrine of Essence](../../../README.md) / [Chapter I. Essence as Ground of Existence](../../README.md) / [Section I. The Pure Principles or Categories of Reflection](../README.md) / [Sub-Section II. Difference](README.md)
-
-[上一篇：A. Variety](01-a-variety.md) · [下一篇：C. Positive and Negative](03-c-positive-and-negative.md)
-
 <!-- original-content:start -->
 ###### B. Likeness and Unlikeness
 
@@ -14,3 +10,6 @@ The relation between true opposites is internal to the opposites themselves. But
 **258.** From likeness and unlikeness is deduced the last phase of difference, which is
 
 <!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+<!-- local-footnotes:end -->

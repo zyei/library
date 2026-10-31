@@ -1,7 +1,3 @@
-[The Philosophy of Hegel](README.md)
-
-[上一篇：A Systematic Exposition](01-a-systematic-exposition.md) · [下一篇：Contents](03-contents.md)
-
 <!-- original-content:start -->
 ## Preface
 
