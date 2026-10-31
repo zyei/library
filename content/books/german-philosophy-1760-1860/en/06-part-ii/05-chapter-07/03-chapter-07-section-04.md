@@ -1,0 +1,22 @@
+<!-- original-content:start -->
+## HISTORY, “ABSOLUTE IDENTITY,” AND ART
+
+By seeking to conciliate the opposites found in Kant’s third antinomy in that way, Schelling effectively fused his *Naturphilosophie* and post-Kantian theories of the source of normativity. This “absolute identity” can, moreover, never be the object of consciousness, or even discursive knowledge, since all consciousness presupposes our having made the distinction within intentionality between sensing and sensed, knowing and known, and this “identity” is supposedly prior to all such intentional distinctions.[^chapter-07-n045] This “absolute point of view” thereby can only be characterized, as Schelling put it, as “the universal identity in which nothing can be distinguished” – a turn of phrase that later came back to haunt him when his old friend Hegel made fun of it in his 1807 *Phenomenology of Spirit* by characterizing “identity philosophy” as “the night in which all cows are black.”[^chapter-07-n046]
+
+Schelling, though, was already aware of the raised eyebrows such a statement would elicit, and rhetorically asked himself, how “can it be established beyond doubt that such an intuition does not rest upon a purely subjective deception, if it possesses no objectivity that is universal and acknowledged by all men?”[^chapter-07-n047] Ever the quintessential Romantic, Schelling insisted that the necessary intuition into this “absolute identity” cannot be intellectual but must be *aesthetic*. The work of art discloses the “absolute” to us in a non-discursive way that is nonetheless more authentically true to the ultimate nature of reality than scientific or even philosophical knowledge can ever hope to be.
+
+Kant had argued that aesthetic judgments intimate that which is “neither nature nor freedom and yet is linked with the basis of freedom, the supersensible.” Schelling took that one step further: the “absolute” which is the unity and basis of the distinction between subjective and objective points of view is also that which is the unity of both nature and freedom while being neither of them; consequently, the absolute (what Kant had called the “indeterminate concept of the supersensible substrate of appearances”) only comes into view in aesthetic form precisely because it is “indeterminate” from either the subjective or objective point of view. By arguing that aesthetic judgments necessarily had their own autonomously established criteria for judgment that were irreducible to other types of judgment, Kant had irrevocably detached art from both craft and entertainment and pushed it into its own, autonomous realm; Schelling further radicalized that conclusion, attributing to art powers for revealing truth that transcend all other ways of getting at what was ultimately real.
+
+Departing even further from Kant, Schelling also claimed (without much argument but in a way that later had great historical influence) that the standards of beauty in art set the norms for what we found beautiful in nature, not vice versa. The beauty of a work of art is more perfect and less contingent than anything in nature in part because art comes about consciously and teleologically, unlike nature, which embodies Kant’s notion of “purpose without purposiveness.”
+
+Since what is at stake in philosophy itself is not ultimately a matter of argument but a matter of vision – of seeing, viewing, *Anschauung* – an “intuition” of how we stand to ourselves and to the world in general, it is the poet and the painter as the better artificers of such “vision” who best grasp the “absolute identity” of mind and nature, not the natural scientist, bound as he is to discursive forms. If anything, it is the aesthetic intuition of the whole of reality, the “identity” of mind and nature, that orients and constrains what would otherwise be the unconstrained “absolute will.” Art reveals our own autonomy to be bounded at its edges by something not itself autonomously chosen but simply “seen”; what philosophy cannot say, art can nonetheless show.
+
+<!-- original-content:end -->
+
+<!-- local-footnotes:start -->
+[^chapter-07-n045]: *System of Transcendental Idealism*, p. 209 (600); *Ausgewählte Schriften*, p. 668.
+
+[^chapter-07-n046]: *System of Transcendental Idealism*, p. 210 (602); *Ausgewählte Schriften*, p. 670.
+
+[^chapter-07-n047]: *System of Transcendental Idealism*, p. 229.
+<!-- local-footnotes:end -->

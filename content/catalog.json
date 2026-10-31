@@ -32,6 +32,33 @@
           "appendix": "content/appendices/the-philosophy-of-hegel.md"
         }
       ]
+    },
+    {
+      "id": "german-philosophy-1760-1860",
+      "title": "German Philosophy 1760–1860",
+      "subtitle": "The Legacy of Idealism",
+      "author": "Terry Pinkard",
+      "initial": "G",
+      "editions": [
+        {
+          "id": "en",
+          "language": "en",
+          "label": "英文",
+          "role": "英文原著",
+          "directory": "content/books/german-philosophy-1760-1860/en",
+          "footnotes": 516,
+          "website": {
+            "includePreface": true,
+            "excludeTitles": [
+              "Front matter: cover, publisher matter, title, dedication and Contents",
+              "Abbreviations",
+              "Index"
+            ]
+          },
+          "sourceSha256": "4f912fe388d635e409916f6a63aa09f88beed5923e9900b4a6e1dc61e6325405",
+          "appendix": "content/appendices/german-philosophy-1760-1860.md"
+        }
+      ]
     }
   ]
 }
