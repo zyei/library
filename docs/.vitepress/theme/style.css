@@ -1,6 +1,43 @@
 :root {
   --vp-font-family-base: 'Literata Variable', 'Noto Sans CJK SC', 'Source Han Sans CN', 'PingFang SC', 'Microsoft YaHei', serif;
   --reader-font-size: 21px;
+  color-scheme: light;
+
+  /* Reading palette: contrast is measured; exact hues are a design choice. */
+  --vp-c-bg: #f6f4ee;
+  --vp-c-bg-alt: #eeece5;
+  --vp-c-bg-elv: #faf8f2;
+  --vp-c-bg-soft: #eae8e0;
+  --vp-c-text-1: #2d302e;
+  --vp-c-text-2: #4e524c;
+  --vp-c-text-3: #62665f;
+  --vp-c-brand-1: #2e5269;
+  --vp-c-brand-2: #244359;
+  --vp-c-brand-3: #365970;
+  --vp-c-brand-soft: rgba(54, 89, 112, .1);
+  --vp-c-default-soft: rgba(83, 89, 79, .1);
+  --vp-c-border: #83877e;
+  --vp-c-divider: #d3d1c8;
+  --vp-c-gutter: #d3d1c8;
+}
+
+.dark {
+  color-scheme: dark;
+  --vp-c-bg: #202326;
+  --vp-c-bg-alt: #1b1e21;
+  --vp-c-bg-elv: #292d30;
+  --vp-c-bg-soft: #2c3033;
+  --vp-c-text-1: #dedbd2;
+  --vp-c-text-2: #bcbdb5;
+  --vp-c-text-3: #a5a9a1;
+  --vp-c-brand-1: #a6c7db;
+  --vp-c-brand-2: #c4deed;
+  --vp-c-brand-3: #365970;
+  --vp-c-brand-soft: rgba(166, 199, 219, .12);
+  --vp-c-default-soft: rgba(188, 189, 181, .12);
+  --vp-c-border: #797f83;
+  --vp-c-divider: #444b4e;
+  --vp-c-gutter: #444b4e;
 }
 
 button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 3px; }
