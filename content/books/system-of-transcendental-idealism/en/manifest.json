@@ -1,0 +1,1083 @@
+{
+  "documents": [
+    {
+      "id": "root",
+      "file": "index.md",
+      "title": "System of Transcendental Idealism (1800)",
+      "content_path": [
+        "System of Transcendental Idealism (1800)"
+      ],
+      "children": [
+        "01.md",
+        "02.md",
+        "07.md",
+        "08.md",
+        "13.md",
+        "18.md",
+        "19.md",
+        "48.md",
+        "64.md",
+        "66.md",
+        "70.md"
+      ],
+      "paragraphs": [],
+      "word_count": 0
+    },
+    {
+      "id": "root.01",
+      "file": "01.md",
+      "title": "Translator's Note",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Translator's Note"
+      ],
+      "paragraphs": [],
+      "word_count": 264
+    },
+    {
+      "id": "root.02",
+      "file": "02.md",
+      "title": "Introduction: The Odyssey of Consciousness",
+      "children": [
+        "03.md",
+        "04.md",
+        "05.md",
+        "06.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction: The Odyssey of Consciousness"
+      ],
+      "paragraphs": [],
+      "word_count": 1902
+    },
+    {
+      "id": "root.03",
+      "file": "03.md",
+      "title": "The Primacy of the Practical",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction: The Odyssey of Consciousness",
+        "The Primacy of the Practical"
+      ],
+      "paragraphs": [],
+      "word_count": 2043
+    },
+    {
+      "id": "root.04",
+      "file": "04.md",
+      "title": "System and Facticity",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction: The Odyssey of Consciousness",
+        "System and Facticity"
+      ],
+      "paragraphs": [],
+      "word_count": 2611
+    },
+    {
+      "id": "root.05",
+      "file": "05.md",
+      "title": "The Dominance of the Unconscious",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction: The Odyssey of Consciousness",
+        "The Dominance of the Unconscious"
+      ],
+      "paragraphs": [],
+      "word_count": 2228
+    },
+    {
+      "id": "root.06",
+      "file": "06.md",
+      "title": "Radical Finitude, Time and History",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction: The Odyssey of Consciousness",
+        "Radical Finitude, Time and History"
+      ],
+      "paragraphs": [],
+      "word_count": 1791
+    },
+    {
+      "id": "root.07",
+      "file": "07.md",
+      "title": "Foreword",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Foreword"
+      ],
+      "paragraphs": [],
+      "word_count": 1833
+    },
+    {
+      "id": "root.08",
+      "file": "08.md",
+      "title": "Introduction",
+      "children": [
+        "09.md",
+        "10.md",
+        "11.md",
+        "12.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction"
+      ],
+      "paragraphs": [],
+      "word_count": 1
+    },
+    {
+      "id": "root.09",
+      "file": "09.md",
+      "title": "§1 Concept of Transcendental Philosophy",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction",
+        "§1 Concept of Transcendental Philosophy"
+      ],
+      "paragraphs": [],
+      "word_count": 1153
+    },
+    {
+      "id": "root.10",
+      "file": "10.md",
+      "title": "§2 Corollaries",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction",
+        "§2 Corollaries"
+      ],
+      "paragraphs": [],
+      "word_count": 1092
+    },
+    {
+      "id": "root.11",
+      "file": "11.md",
+      "title": "§3 Preliminary Division of Transcendental Philosophy",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction",
+        "§3 Preliminary Division of Transcendental Philosophy"
+      ],
+      "paragraphs": [],
+      "word_count": 1374
+    },
+    {
+      "id": "root.12",
+      "file": "12.md",
+      "title": "§4 The Organ of Transcendental Philosophy",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Introduction",
+        "§4 The Organ of Transcendental Philosophy"
+      ],
+      "paragraphs": [],
+      "word_count": 906
+    },
+    {
+      "id": "root.13",
+      "file": "13.md",
+      "title": "Part One: On the Principle of Transcendental Idealism",
+      "children": [
+        "14.md",
+        "15.md",
+        "17.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part One: On the Principle of Transcendental Idealism"
+      ],
+      "paragraphs": [],
+      "word_count": 8
+    },
+    {
+      "id": "root.14",
+      "file": "14.md",
+      "title": "Section One: On the Necessity and Character of a Supreme Principle of Knowledge",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part One: On the Principle of Transcendental Idealism",
+        "Section One: On the Necessity and Character of a Supreme Principle of Knowledge"
+      ],
+      "paragraphs": [],
+      "word_count": 3045
+    },
+    {
+      "id": "root.15",
+      "file": "15.md",
+      "title": "Section Two: Deduction of the Principle Itself",
+      "children": [
+        "16.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part One: On the Principle of Transcendental Idealism",
+        "Section Two: Deduction of the Principle Itself"
+      ],
+      "paragraphs": [],
+      "word_count": 1439
+    },
+    {
+      "id": "root.16",
+      "file": "16.md",
+      "title": "Elucidations",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part One: On the Principle of Transcendental Idealism",
+        "Section Two: Deduction of the Principle Itself",
+        "Elucidations"
+      ],
+      "paragraphs": [],
+      "word_count": 3320
+    },
+    {
+      "id": "root.17",
+      "file": "17.md",
+      "title": "General Observations",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part One: On the Principle of Transcendental Idealism",
+        "General Observations"
+      ],
+      "paragraphs": [],
+      "word_count": 1160
+    },
+    {
+      "id": "root.18",
+      "file": "18.md",
+      "title": "Part Two: General Deduction of Transcendental Idealism",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Two: General Deduction of Transcendental Idealism"
+      ],
+      "paragraphs": [],
+      "word_count": 3738
+    },
+    {
+      "id": "root.19",
+      "file": "19.md",
+      "title": "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+      "children": [
+        "20.md",
+        "21.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism"
+      ],
+      "paragraphs": [],
+      "word_count": 509
+    },
+    {
+      "id": "root.20",
+      "file": "20.md",
+      "title": "I. Deduction of the Absolute Synthesis Contained in the Act of Self-Consciousness",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "I. Deduction of the Absolute Synthesis Contained in the Act of Self-Consciousness"
+      ],
+      "paragraphs": [],
+      "word_count": 1911
+    },
+    {
+      "id": "root.21",
+      "file": "21.md",
+      "title": "II. Deduction of the Middle Terms of the Absolute Synthesis",
+      "children": [
+        "22.md",
+        "33.md",
+        "42.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis"
+      ],
+      "paragraphs": [],
+      "word_count": 1585
+    },
+    {
+      "id": "root.22",
+      "file": "22.md",
+      "title": "First Epoch: From Original Sensation to Productive Intuition",
+      "children": [
+        "23.md",
+        "25.md",
+        "28.md",
+        "32.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition"
+      ],
+      "paragraphs": [],
+      "word_count": 10
+    },
+    {
+      "id": "root.23",
+      "file": "23.md",
+      "title": "A. Problem: To explain how the self comes to intuit itself as limited",
+      "children": [
+        "24.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "A. Problem: To explain how the self comes to intuit itself as limited"
+      ],
+      "paragraphs": [],
+      "word_count": 2448
+    },
+    {
+      "id": "root.24",
+      "file": "24.md",
+      "title": "Additional Remarks",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "A. Problem: To explain how the self comes to intuit itself as limited",
+        "Additional Remarks"
+      ],
+      "paragraphs": [],
+      "word_count": 2103
+    },
+    {
+      "id": "root.25",
+      "file": "25.md",
+      "title": "B. Problem: To explain how the self intuits itself as sensing",
+      "children": [
+        "26.md",
+        "27.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "B. Problem: To explain how the self intuits itself as sensing"
+      ],
+      "paragraphs": [],
+      "word_count": 453
+    },
+    {
+      "id": "root.26",
+      "file": "26.md",
+      "title": "Solution",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "B. Problem: To explain how the self intuits itself as sensing",
+        "Solution"
+      ],
+      "paragraphs": [],
+      "word_count": 2005
+    },
+    {
+      "id": "root.27",
+      "file": "27.md",
+      "title": "II. [Complete Derivation of Productive Intuition]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "B. Problem: To explain how the self intuits itself as sensing",
+        "II. [Complete Derivation of Productive Intuition]"
+      ],
+      "paragraphs": [],
+      "word_count": 3492
+    },
+    {
+      "id": "root.28",
+      "file": "28.md",
+      "title": "C. Theory of Productive Intuition",
+      "children": [
+        "29.md",
+        "30.md",
+        "31.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "C. Theory of Productive Intuition"
+      ],
+      "paragraphs": [],
+      "word_count": 1931
+    },
+    {
+      "id": "root.29",
+      "file": "29.md",
+      "title": "I. Deduction of Productive Intuition",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "C. Theory of Productive Intuition",
+        "I. Deduction of Productive Intuition"
+      ],
+      "paragraphs": [],
+      "word_count": 3058
+    },
+    {
+      "id": "root.30",
+      "file": "30.md",
+      "title": "II. Deduction of Matter",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "C. Theory of Productive Intuition",
+        "II. Deduction of Matter"
+      ],
+      "paragraphs": [],
+      "word_count": 1521
+    },
+    {
+      "id": "root.31",
+      "file": "31.md",
+      "title": "Corollaries [On the Three Moments in the Construction of Matter]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "C. Theory of Productive Intuition",
+        "Corollaries [On the Three Moments in the Construction of Matter]"
+      ],
+      "paragraphs": [],
+      "word_count": 2099
+    },
+    {
+      "id": "root.32",
+      "file": "32.md",
+      "title": "General Note upon the First Epoch",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "First Epoch: From Original Sensation to Productive Intuition",
+        "General Note upon the First Epoch"
+      ],
+      "paragraphs": [],
+      "word_count": 1468
+    },
+    {
+      "id": "root.33",
+      "file": "33.md",
+      "title": "Second Epoch: From Productive Intuition to Reflection",
+      "children": [
+        "34.md",
+        "41.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection"
+      ],
+      "paragraphs": [],
+      "word_count": 650
+    },
+    {
+      "id": "root.34",
+      "file": "34.md",
+      "title": "D. Problem: To explain how the self comes to intuit itself as productive",
+      "children": [
+        "35.md",
+        "36.md",
+        "37.md",
+        "38.md",
+        "39.md",
+        "40.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection",
+        "D. Problem: To explain how the self comes to intuit itself as productive"
+      ],
+      "paragraphs": [],
+      "word_count": 13
+    },
+    {
+      "id": "root.35",
+      "file": "35.md",
+      "title": "Solution: I. [Inner and Outer Intuition]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection",
+        "D. Problem: To explain how the self comes to intuit itself as productive",
+        "Solution: I. [Inner and Outer Intuition]"
+      ],
+      "paragraphs": [],
+      "word_count": 2040
+    },
+    {
+      "id": "root.36",
+      "file": "36.md",
+      "title": "II. [Inner Sense and the Sensory Object]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection",
+        "D. Problem: To explain how the self comes to intuit itself as productive",
+        "II. [Inner Sense and the Sensory Object]"
+      ],
+      "paragraphs": [],
+      "word_count": 1997
+    },
+    {
+      "id": "root.37",
+      "file": "37.md",
+      "title": "III. [Space and Time]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection",
+        "D. Problem: To explain how the self comes to intuit itself as productive",
+        "III. [Space and Time]"
+      ],
+      "paragraphs": [],
+      "word_count": 4131
+    },
+    {
+      "id": "root.38",
+      "file": "38.md",
+      "title": "III. [Space and Time] — Continued",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection",
+        "D. Problem: To explain how the self comes to intuit itself as productive",
+        "III. [Space and Time] — Continued"
+      ],
+      "paragraphs": [],
+      "word_count": 4180
+    },
+    {
+      "id": "root.39",
+      "file": "39.md",
+      "title": "IV. [Deduction of the Organic]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection",
+        "D. Problem: To explain how the self comes to intuit itself as productive",
+        "IV. [Deduction of the Organic]"
+      ],
+      "paragraphs": [],
+      "word_count": 4103
+    },
+    {
+      "id": "root.40",
+      "file": "40.md",
+      "title": "V. [Transition to Free Reflection]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection",
+        "D. Problem: To explain how the self comes to intuit itself as productive",
+        "V. [Transition to Free Reflection]"
+      ],
+      "paragraphs": [],
+      "word_count": 668
+    },
+    {
+      "id": "root.41",
+      "file": "41.md",
+      "title": "General Note upon the Second Epoch",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Second Epoch: From Productive Intuition to Reflection",
+        "General Note upon the Second Epoch"
+      ],
+      "paragraphs": [],
+      "word_count": 991
+    },
+    {
+      "id": "root.42",
+      "file": "42.md",
+      "title": "Third Epoch: From Reflection to the Absolute Act of Will",
+      "children": [
+        "43.md",
+        "44.md",
+        "45.md",
+        "46.md",
+        "47.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Third Epoch: From Reflection to the Absolute Act of Will"
+      ],
+      "paragraphs": [],
+      "word_count": 12
+    },
+    {
+      "id": "root.43",
+      "file": "43.md",
+      "title": "I. [Abstraction of Action from the Produced]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Third Epoch: From Reflection to the Absolute Act of Will",
+        "I. [Abstraction of Action from the Produced]"
+      ],
+      "paragraphs": [],
+      "word_count": 2357
+    },
+    {
+      "id": "root.44",
+      "file": "44.md",
+      "title": "II. [Transcendental Abstraction of the Concept from Intuition]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Third Epoch: From Reflection to the Absolute Act of Will",
+        "II. [Transcendental Abstraction of the Concept from Intuition]"
+      ],
+      "paragraphs": [],
+      "word_count": 1714
+    },
+    {
+      "id": "root.45",
+      "file": "45.md",
+      "title": "III. [Transcendental Schematism and the Categories]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Third Epoch: From Reflection to the Absolute Act of Will",
+        "III. [Transcendental Schematism and the Categories]"
+      ],
+      "paragraphs": [],
+      "word_count": 2684
+    },
+    {
+      "id": "root.46",
+      "file": "46.md",
+      "title": "IV. [Absolute Abstraction as Postulate of Theoretical Philosophy]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Third Epoch: From Reflection to the Absolute Act of Will",
+        "IV. [Absolute Abstraction as Postulate of Theoretical Philosophy]"
+      ],
+      "paragraphs": [],
+      "word_count": 1449
+    },
+    {
+      "id": "root.47",
+      "file": "47.md",
+      "title": "General Note upon the Third Epoch",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Three: System of Theoretical Philosophy according to the Principles of Transcendental Idealism",
+        "II. Deduction of the Middle Terms of the Absolute Synthesis",
+        "Third Epoch: From Reflection to the Absolute Act of Will",
+        "General Note upon the Third Epoch"
+      ],
+      "paragraphs": [],
+      "word_count": 1668
+    },
+    {
+      "id": "root.48",
+      "file": "48.md",
+      "title": "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+      "children": [
+        "49.md",
+        "50.md",
+        "51.md",
+        "52.md",
+        "53.md",
+        "63.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism"
+      ],
+      "paragraphs": [],
+      "word_count": 153
+    },
+    {
+      "id": "root.49",
+      "file": "49.md",
+      "title": "First Proposition",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "First Proposition"
+      ],
+      "paragraphs": [],
+      "word_count": 308
+    },
+    {
+      "id": "root.50",
+      "file": "50.md",
+      "title": "Corollaries",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "Corollaries"
+      ],
+      "paragraphs": [],
+      "word_count": 2602
+    },
+    {
+      "id": "root.51",
+      "file": "51.md",
+      "title": "Second Proposition",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "Second Proposition"
+      ],
+      "paragraphs": [],
+      "word_count": 4682
+    },
+    {
+      "id": "root.52",
+      "file": "52.md",
+      "title": "Additional Remarks",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "Additional Remarks"
+      ],
+      "paragraphs": [],
+      "word_count": 1789
+    },
+    {
+      "id": "root.53",
+      "file": "53.md",
+      "title": "E. Problem: To explain how willing again becomes objective for the self",
+      "children": [
+        "54.md",
+        "57.md",
+        "59.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self"
+      ],
+      "paragraphs": [],
+      "word_count": 12
+    },
+    {
+      "id": "root.54",
+      "file": "54.md",
+      "title": "Solution",
+      "children": [
+        "55.md",
+        "56.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "Solution"
+      ],
+      "paragraphs": [],
+      "word_count": 1243
+    },
+    {
+      "id": "root.55",
+      "file": "55.md",
+      "title": "A. [Transition from the Ideal to the Objective: Time]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "Solution",
+        "A. [Transition from the Ideal to the Objective: Time]"
+      ],
+      "paragraphs": [],
+      "word_count": 991
+    },
+    {
+      "id": "root.56",
+      "file": "56.md",
+      "title": "B. [Change only of the Contingent Determinations of Things]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "Solution",
+        "B. [Change only of the Contingent Determinations of Things]"
+      ],
+      "paragraphs": [],
+      "word_count": 2753
+    },
+    {
+      "id": "root.57",
+      "file": "57.md",
+      "title": "II. [Matter as Organ of Free Activity]",
+      "children": [
+        "58.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "II. [Matter as Organ of Free Activity]"
+      ],
+      "paragraphs": [],
+      "word_count": 4022
+    },
+    {
+      "id": "root.58",
+      "file": "58.md",
+      "title": "Additional Remarks [Deduction of Law]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "II. [Matter as Organ of Free Activity]",
+        "Additional Remarks [Deduction of Law]"
+      ],
+      "paragraphs": [],
+      "word_count": 2463
+    },
+    {
+      "id": "root.59",
+      "file": "59.md",
+      "title": "III. [Deduction of the Concept of History]",
+      "children": [
+        "60.md",
+        "61.md",
+        "62.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "III. [Deduction of the Concept of History]"
+      ],
+      "paragraphs": [],
+      "word_count": 996
+    },
+    {
+      "id": "root.60",
+      "file": "60.md",
+      "title": "A. [Individual Consciousness and Universal History]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "III. [Deduction of the Concept of History]",
+        "A. [Individual Consciousness and Universal History]"
+      ],
+      "paragraphs": [],
+      "word_count": 804
+    },
+    {
+      "id": "root.61",
+      "file": "61.md",
+      "title": "B. [Infinite Progress in History]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "III. [Deduction of the Concept of History]",
+        "B. [Infinite Progress in History]"
+      ],
+      "paragraphs": [],
+      "word_count": 322
+    },
+    {
+      "id": "root.62",
+      "file": "62.md",
+      "title": "C. [History as Unity of Freedom and Necessity]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "E. Problem: To explain how willing again becomes objective for the self",
+        "III. [Deduction of the Concept of History]",
+        "C. [History as Unity of Freedom and Necessity]"
+      ],
+      "paragraphs": [],
+      "word_count": 4387
+    },
+    {
+      "id": "root.63",
+      "file": "63.md",
+      "title": "F. Problem: To explain how the self itself can become conscious of the original harmony between subjective and objective",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Four: System of Practical Philosophy according to the Principles of Transcendental Idealism",
+        "F. Problem: To explain how the self itself can become conscious of the original harmony between subjective and objective"
+      ],
+      "paragraphs": [],
+      "word_count": 603
+    },
+    {
+      "id": "root.64",
+      "file": "64.md",
+      "title": "Part Five: Essentials of Teleology according to the Principles of Transcendental Idealism",
+      "children": [
+        "65.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Five: Essentials of Teleology according to the Principles of Transcendental Idealism"
+      ],
+      "paragraphs": [],
+      "word_count": 1049
+    },
+    {
+      "id": "root.65",
+      "file": "65.md",
+      "title": "II. [Art]",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Five: Essentials of Teleology according to the Principles of Transcendental Idealism",
+        "II. [Art]"
+      ],
+      "paragraphs": [],
+      "word_count": 414
+    },
+    {
+      "id": "root.66",
+      "file": "66.md",
+      "title": "Part Six: Deduction of a Universal Organ of Philosophy, or: Essentials of the Philosophy of Art according to the Principles of Transcendental Idealism",
+      "children": [
+        "67.md",
+        "68.md",
+        "69.md"
+      ],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Six: Deduction of a Universal Organ of Philosophy, or: Essentials of the Philosophy of Art according to the Principles of Transcendental Idealism"
+      ],
+      "paragraphs": [],
+      "word_count": 23
+    },
+    {
+      "id": "root.67",
+      "file": "67.md",
+      "title": "§1 Deduction of the Art-Product as Such",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Six: Deduction of a Universal Organ of Philosophy, or: Essentials of the Philosophy of Art according to the Principles of Transcendental Idealism",
+        "§1 Deduction of the Art-Product as Such"
+      ],
+      "paragraphs": [],
+      "word_count": 2470
+    },
+    {
+      "id": "root.68",
+      "file": "68.md",
+      "title": "§2 Character of the Art-Product",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Six: Deduction of a Universal Organ of Philosophy, or: Essentials of the Philosophy of Art according to the Principles of Transcendental Idealism",
+        "§2 Character of the Art-Product"
+      ],
+      "paragraphs": [],
+      "word_count": 1773
+    },
+    {
+      "id": "root.69",
+      "file": "69.md",
+      "title": "§3 Corollaries: Relation of Art to Philosophy",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "Part Six: Deduction of a Universal Organ of Philosophy, or: Essentials of the Philosophy of Art according to the Principles of Transcendental Idealism",
+        "§3 Corollaries: Relation of Art to Philosophy"
+      ],
+      "paragraphs": [],
+      "word_count": 1585
+    },
+    {
+      "id": "root.70",
+      "file": "70.md",
+      "title": "General Observation on the Whole System",
+      "children": [],
+      "content_path": [
+        "System of Transcendental Idealism (1800)",
+        "General Observation on the Whole System"
+      ],
+      "paragraphs": [],
+      "word_count": 1583
+    }
+  ],
+  "paragraphs": {}
+}
