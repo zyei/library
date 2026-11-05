@@ -6,3 +6,4 @@
 
 - W. T. Stace《The Philosophy of Hegel: A Systematic Exposition》（英文原著）。
 - Terry Pinkard《German Philosophy 1760–1860: The Legacy of Idealism》（英文原著）。
+- F. W. J. Schelling《System of Transcendental Idealism (1800)》（Peter Heath 英译，Michael Vater 导言）。

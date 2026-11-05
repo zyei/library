@@ -57,6 +57,34 @@
           "appendix": "content/appendices/german-philosophy-1760-1860.md"
         }
       ]
+    },
+    {
+      "id": "system-of-transcendental-idealism",
+      "title": "System of Transcendental Idealism (1800)",
+      "subtitle": "Peter Heath 英译 · Michael Vater 导言",
+      "author": "F. W. J. Schelling",
+      "initial": "S",
+      "editions": [
+        {
+          "id": "en",
+          "language": "en",
+          "label": "英文",
+          "role": "德文原著英译 · Peter Heath",
+          "directory": "content/books/system-of-transcendental-idealism/en",
+          "footnotes": 69,
+          "website": {
+            "includePreface": true,
+            "excludeTitles": [
+              "Cover",
+              "Copyright",
+              "Contents",
+              "Glossary",
+              "Index"
+            ]
+          },
+          "appendix": "content/appendices/system-of-transcendental-idealism.md"
+        }
+      ]
     }
   ]
 }
